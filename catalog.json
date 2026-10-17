@@ -1783,6 +1783,63 @@
         "stats",
         "hangar"
       ]
+    },
+    {
+      "id": "com.github.pruszko.show_gun_collision",
+      "name": {
+        "en": "Show Gun Collision",
+        "ru": "Столкновение орудия"
+      },
+      "description": {
+        "en": "In sniper mode, shows where your gun would hit an obstacle.",
+        "ru": "В снайперском режиме показывает, где орудие упрётся в препятствие."
+      },
+      "author": "Pruszko",
+      "homepage": "https://github.com/Pruszko/ShowGunCollision",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.0.4",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/pruszko.show_gun_collision_1.0.4.wotmod",
+          "sha256": "150D770E4F43577787C8ECD21DDD0EED488A41147F9140DB1DA8F67C8B91C85F"
+        }
+      ],
+      "categories": [
+        "crosshairs",
+        "battle"
+      ]
+    },
+    {
+      "id": "com.github.pruszko.absurd_recoil",
+      "name": {
+        "en": "Absurd Recoil",
+        "ru": "Абсурдная отдача"
+      },
+      "description": {
+        "en": "Joke mod: a huge recoil on every shot.",
+        "ru": "Шуточный мод: огромная отдача при каждом выстреле."
+      },
+      "author": "Pruszko",
+      "homepage": "https://github.com/Pruszko/AbsurdRecoil",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.0.1",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/pruszko.absurd_recoil_1.0.1_1fOJJy0.wotmod",
+          "sha256": "E9BCF664BD5F5A60134933BD3F97F9C8369B9233C4F45BF359D35CDBA1AAD9F1"
+        }
+      ],
+      "categories": [
+        "battle"
+      ]
     }
   ]
 }
