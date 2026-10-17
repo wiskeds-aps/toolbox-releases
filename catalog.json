@@ -401,6 +401,322 @@
           "sha256": "DCF11475D735911460762051108F1D6C184D57D95A5A78289F91277D0442255A"
         }
       ]
+    },
+    {
+      "id": "gambiter.guiflash",
+      "name": {
+        "en": "GUIFlash",
+        "ru": "GUIFlash"
+      },
+      "description": {
+        "en": "Flash interface components for Python mods (current build shipped by spoter).",
+        "ru": "Flash-компоненты интерфейса для Python-модов (актуальная сборка из комплекта spoter)."
+      },
+      "author": "GambitER / spoter",
+      "homepage": "https://github.com/spoter/spoter-mods",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "0.6.7",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_mods_gui.zip",
+          "sha256": "0BA59BE20CD25FB91FF395F7A7ED298B87BD388F1D0C1704D3659EE592ABD627",
+          "archiveEntry": "mods/2.4.1.0/gambiter.guiflash_0.6.7.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "mod_mods_gui",
+      "name": {
+        "en": "spoter Mods GUI",
+        "ru": "Настройки модов spoter"
+      },
+      "description": {
+        "en": "Settings window for spoter's mods.",
+        "ru": "Окно настроек модов spoter."
+      },
+      "author": "spoter",
+      "homepage": "https://github.com/spoter/spoter-mods",
+      "trust": "Community",
+      "requires": [
+        "gambiter.guiflash",
+        "me.poliroid.modslistapi"
+      ],
+      "releases": [
+        {
+          "version": "3.11",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_mods_gui.zip",
+          "sha256": "0BA59BE20CD25FB91FF395F7A7ED298B87BD388F1D0C1704D3659EE592ABD627",
+          "archiveEntry": "mods/2.4.1.0/mod_mods_gui_3.11.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "spoter.marksOnGunExtended",
+      "name": {
+        "en": "Marks On Gun Extended",
+        "ru": "Отметки на стволе (расширенные)"
+      },
+      "description": {
+        "en": "Detailed Marks of Excellence progress during battle.",
+        "ru": "Подробный прогресс отметок на стволе во время боя."
+      },
+      "author": "spoter",
+      "homepage": "https://github.com/spoter/spoter-mods",
+      "trust": "Community",
+      "requires": [
+        "mod_mods_gui"
+      ],
+      "releases": [
+        {
+          "version": "9.15",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_marksOnGunExtended.zip",
+          "sha256": "91C6793D9ED6334A75BF48CDDEBD648975B3C5FA0FD5F370D7B99616FC18D4C2",
+          "subfolder": "spoter",
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_marksOnGunExtended_9.15.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "b4it.creditCalc",
+      "name": {
+        "en": "Credit Calculator",
+        "ru": "Калькулятор кредитов"
+      },
+      "description": {
+        "en": "Estimates credits earned in the battle.",
+        "ru": "Подсчёт заработанных за бой кредитов."
+      },
+      "author": "spoter",
+      "homepage": "https://github.com/spoter/spoter-mods",
+      "trust": "Community",
+      "requires": [
+        "mod_mods_gui"
+      ],
+      "releases": [
+        {
+          "version": "2.12",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_creditCalc.zip",
+          "sha256": "DE169A6C09E276BD488BA36C3DCF79F57A07F617E20766EF8D5376226FAF82FE",
+          "subfolder": "spoter",
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_creditCalc_2.12.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "spoter.repair_extended",
+      "name": {
+        "en": "Repair Extended",
+        "ru": "Авторемонт и лечение"
+      },
+      "description": {
+        "en": "Automatically repairs modules and heals crew with repair kits and first aid kits.",
+        "ru": "Автоматически чинит модули и лечит экипаж ремкомплектами и аптечками."
+      },
+      "author": "spoter",
+      "homepage": "https://github.com/spoter/spoter-mods",
+      "trust": "Community",
+      "requires": [
+        "mod_mods_gui"
+      ],
+      "releases": [
+        {
+          "version": "3.14",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_repair_extended.zip",
+          "sha256": "C21873955C2D2325189EABD95B73119AFF51DEE171DE500CF10155A9020241C6",
+          "subfolder": "spoter",
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_repair_extended_3.14.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "spoter.spotted_extended_light",
+      "name": {
+        "en": "Spotted Extended Light",
+        "ru": "Сообщения о засвете"
+      },
+      "description": {
+        "en": "Messages about enemies you have spotted.",
+        "ru": "Сообщения о противниках, которых засветил ты."
+      },
+      "author": "spoter",
+      "homepage": "https://github.com/spoter/spoter-mods",
+      "trust": "Community",
+      "requires": [
+        "mod_mods_gui"
+      ],
+      "releases": [
+        {
+          "version": "4.18",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_spotted_extended_light.zip",
+          "sha256": "E3F07A26437B9FA4670C6EA9B148881E26E7E4B5B67BA6FF85DAE65046521D60",
+          "subfolder": "spoter",
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_spotted_extended_light_4.18.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "spoter.serverTurretExtended",
+      "name": {
+        "en": "Server Turret Extended",
+        "ru": "Серверное положение башни"
+      },
+      "description": {
+        "en": "Shows the server-side position of the turret and gun.",
+        "ru": "Показывает серверное положение башни и орудия."
+      },
+      "author": "spoter",
+      "homepage": "https://github.com/spoter/spoter-mods",
+      "trust": "Community",
+      "requires": [
+        "mod_mods_gui"
+      ],
+      "releases": [
+        {
+          "version": "3.15",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_server_turret_extended.zip",
+          "sha256": "98D3BF7C70CF5ECB59BEA4DD26622DAA9ACEC8EE8C6D2F11FB1C421677CADC77",
+          "subfolder": "spoter",
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_server_turret_extended_3.15.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "spoter.artySplash",
+      "name": {
+        "en": "Arty Splash",
+        "ru": "Круг разлёта осколков арты"
+      },
+      "description": {
+        "en": "Shows the splash radius circle for artillery shells.",
+        "ru": "Показывает круг разлёта осколков снаряда арты."
+      },
+      "author": "spoter",
+      "homepage": "https://github.com/spoter/spoter-mods",
+      "trust": "Community",
+      "requires": [
+        "mod_mods_gui"
+      ],
+      "releases": [
+        {
+          "version": "2.18",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_artySplash.zip",
+          "sha256": "41B50B31E3EC228E6342E01AE83CFF2801C3F8EFA5E6C3DED3284EC349D70DC2",
+          "subfolder": "spoter",
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_artySplash_2.18.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "spoter.autoServerSight",
+      "name": {
+        "en": "Auto Server Sight",
+        "ru": "Автовключение серверного прицела"
+      },
+      "description": {
+        "en": "Turns the server reticle on automatically.",
+        "ru": "Автоматически включает серверный прицел."
+      },
+      "author": "spoter",
+      "homepage": "https://github.com/spoter/spoter-mods",
+      "trust": "Community",
+      "requires": [
+        "mod_mods_gui"
+      ],
+      "releases": [
+        {
+          "version": "1.03",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_autoServerSight.zip",
+          "sha256": "A76348FE570749C12F913BDC8279858B1DBE3848A203EDCFE84B4988D328BDCF",
+          "subfolder": "spoter",
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_autoServerSight_1.03.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "spoter.discordHangar",
+      "name": {
+        "en": "Discord Hangar",
+        "ru": "Статус в Discord"
+      },
+      "description": {
+        "en": "Shows your game status in Discord.",
+        "ru": "Показывает игровой статус в Discord."
+      },
+      "author": "spoter",
+      "homepage": "https://github.com/spoter/spoter-mods",
+      "trust": "Community",
+      "requires": [
+        "mod_mods_gui"
+      ],
+      "releases": [
+        {
+          "version": "1.03",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_discordHangar.zip",
+          "sha256": "FA5456DD58F11757BAE597AE9C1EE6819059B2DE81E799878B85F6FCCC8CB26E",
+          "subfolder": "spoter",
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_discordHangar_1.03.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "spoter.muteSoundHotKey",
+      "name": {
+        "en": "Mute Sound Hotkey",
+        "ru": "Выключение звука клавишей"
+      },
+      "description": {
+        "en": "Mute and unmute game sound with a hotkey.",
+        "ru": "Выключает и включает звук игры клавишей."
+      },
+      "author": "spoter",
+      "homepage": "https://github.com/spoter/spoter-mods",
+      "trust": "Community",
+      "requires": [
+        "mod_mods_gui"
+      ],
+      "releases": [
+        {
+          "version": "1.03",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_muteSoundHotKey.zip",
+          "sha256": "C752961F9BDEF7B8B59606DB0C765D3A31223EA0D735CB79FAEC06FA65FDB5B9",
+          "subfolder": "spoter",
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_muteSoundHotKey_1.03.wotmod"
+        }
+      ]
     }
   ]
 }
