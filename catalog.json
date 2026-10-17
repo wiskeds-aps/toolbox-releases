@@ -744,6 +744,140 @@
           "archiveEntry": "armagomen.battleObserver_1.43.45.wotmod"
         }
       ]
+    },
+    {
+      "id": "better-reticle-size",
+      "name": {
+        "en": "Better Reticle Size",
+        "ru": "Честный размер прицела"
+      },
+      "description": {
+        "en": "Resizes the reticle to match the real shot distribution.",
+        "ru": "Подгоняет размер круга сведения под реальный разброс снарядов."
+      },
+      "author": "Jak_Atackka",
+      "homepage": "https://wgmods.net/6349/",
+      "trust": "Community",
+      "requires": [
+        "izeberg.modssettingsapi"
+      ],
+      "releases": [
+        {
+          "version": "1.3",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/Jak_Atackka.betterReticleSize_1.3.zip",
+          "sha256": "1AB4A6926E95AB0A7FF6827187FCEEB58D6654B9F12CDEBA9F8621369B8E9AD3",
+          "archiveEntry": "Jak_Atackka.betterReticleSize_1.3.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "com.github.pruszko.reticlesizelimitremover",
+      "name": {
+        "en": "Reticle Size Limit Remover",
+        "ru": "Без ограничения размера прицела"
+      },
+      "description": {
+        "en": "Removes the minimum size limit of the aiming circle.",
+        "ru": "Убирает ограничение минимального размера круга сведения."
+      },
+      "author": "Pruszko",
+      "homepage": "https://wgmods.net/6373/",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.0.1",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/ReticleSizeLimitRemover_1.0.1_HGjvwOd.wotmod",
+          "sha256": "E5FFE44A3EC764EBCC692A93A770FFE7A0C07CEB0F0C18E45B847BE5096683C7"
+        }
+      ]
+    },
+    {
+      "id": "wotinspector.com.battle_assistant",
+      "name": {
+        "en": "Battle Assistant",
+        "ru": "Battle Assistant (арта)"
+      },
+      "description": {
+        "en": "Artillery aid: strategic view tweaks and shell trajectory/target markers.",
+        "ru": "Помощник для арты: улучшенный стратегический вид, траектория и маркеры цели."
+      },
+      "author": "reven86",
+      "homepage": "https://wgmods.net/435/",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "2.6.3",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/wotinspector.com.battle_assistant.2.6.3.wotmod",
+          "sha256": "8765AF2BD099E2D7746AC5AE13B6CDAAA5A69FF0174EF95BCEA88508B8B3AC93"
+        }
+      ]
+    },
+    {
+      "id": "crosshair.ballistics.info",
+      "name": {
+        "en": "Crosshair Ballistics Info",
+        "ru": "Баллистика у прицела"
+      },
+      "description": {
+        "en": "Shell flight time, drop and other ballistics next to the crosshair.",
+        "ru": "Время полёта снаряда, снижение и другая баллистика рядом с прицелом."
+      },
+      "author": "Gravity_Assist",
+      "homepage": "https://wgmods.net/7681/",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "1.5.2",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gravity.ballistics_crosshair_overlay.2.4.1.0.1.5.2.zip",
+          "sha256": "DF41B9E3D12A58FA666F00891811037AE7587F66C51EAE75B50527C9BFF3404B",
+          "archiveEntry": "gravity.crosshair.ballistics.info.2.4.1.0.1.5.2.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "dynamic.flashlight.colours",
+      "name": {
+        "en": "Dynamic Flashlight Colours",
+        "ru": "Цвета индикатора пробития"
+      },
+      "description": {
+        "en": "Custom colours for the penetration indicator on the crosshair.",
+        "ru": "Свои цвета индикатора пробития на прицеле."
+      },
+      "author": "Gravity_Assist",
+      "homepage": "https://wgmods.net/7565/",
+      "trust": "Community",
+      "requires": [
+        "izeberg.modssettingsapi"
+      ],
+      "releases": [
+        {
+          "version": "1.3",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gravity.dynamic_flashlight_colours.2.4.1.0.1.3.zip",
+          "sha256": "11496ED0C4262819D9A9899AA2EFD0034CB58DEE8EB293377704252FC602C63C",
+          "archiveEntry": "gravity.dynamic_flashlight_colours.2.4.1.0.1.3.wotmod"
+        }
+      ]
     }
   ]
 }
