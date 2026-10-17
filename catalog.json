@@ -756,7 +756,7 @@
         "ru": "Подгоняет размер круга сведения под реальный разброс снарядов."
       },
       "author": "Jak_Atackka",
-      "homepage": "https://wgmods.net/6349/",
+      "homepage": "https://github.com/alex-joens/wot-better-reticle-size",
       "trust": "Community",
       "requires": [
         "izeberg.modssettingsapi"
@@ -767,7 +767,7 @@
           "clients": [
             "2.4.1.0"
           ],
-          "url": "https://modp.wgcdn.co/media/mod_files/Jak_Atackka.betterReticleSize_1.3.zip",
+          "url": "https://github.com/alex-joens/wot-better-reticle-size/releases/download/v1.3/Jak_Atackka.betterReticleSize_1.3.zip",
           "sha256": "1AB4A6926E95AB0A7FF6827187FCEEB58D6654B9F12CDEBA9F8621369B8E9AD3",
           "archiveEntry": "Jak_Atackka.betterReticleSize_1.3.wotmod"
         }
@@ -876,6 +876,550 @@
           "url": "https://modp.wgcdn.co/media/mod_files/gravity.dynamic_flashlight_colours.2.4.1.0.1.3.zip",
           "sha256": "11496ED0C4262819D9A9899AA2EFD0034CB58DEE8EB293377704252FC602C63C",
           "archiveEntry": "gravity.dynamic_flashlight_colours.2.4.1.0.1.3.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "net.openwg.fix.battleresultscache",
+      "name": {
+        "en": "Battle results cache fix",
+        "ru": "Исправление кэша результатов боя"
+      },
+      "description": {
+        "en": "Keeps battle results available for mods.",
+        "ru": "Сохраняет результаты боёв доступными для модов."
+      },
+      "author": "OpenWG",
+      "homepage": "https://gitlab.com/openwg/fixedbattleresultscache",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.9.0",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://gitlab.com/-/project/15984869/uploads/d7f9476749f35bb61020d1d42d7cf0eb/net.openwg.fix.battleresultscache_1.9.0.wotmod",
+          "sha256": "A98A724E5DAC3A1147A0A99A0BA20866DB33DCC1378B412E036998170C0F06AB",
+          "subfolder": "net.openwg"
+        }
+      ]
+    },
+    {
+      "id": "net.openwg.fix.battleresultsreplays",
+      "name": {
+        "en": "Battle results in replays fix",
+        "ru": "Исправление результатов боя в реплеях"
+      },
+      "description": {
+        "en": "Battle results data in replays for mods.",
+        "ru": "Данные результатов боя в реплеях для модов."
+      },
+      "author": "OpenWG",
+      "homepage": "https://gitlab.com/openwg/wot.fix.battleresultsreplays",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.1.0",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://gitlab.com/-/project/59391713/uploads/733576b1db15ec9b7d4cfe20c67b1241/net.openwg.fix.battleresultsreplays_1.1.0.wotmod",
+          "sha256": "98A3EB1C509B33C247ABF65B99BAE40D77873E8B4F2EC58237B711F2A7228F2A",
+          "subfolder": "net.openwg"
+        }
+      ]
+    },
+    {
+      "id": "me.poliroid.replaysmanager",
+      "name": {
+        "en": "Replays Manager",
+        "ru": "Менеджер реплеев"
+      },
+      "description": {
+        "en": "Browse, sort, filter and launch replays right from the game.",
+        "ru": "Просмотр, сортировка, фильтры и запуск реплеев прямо из игры."
+      },
+      "author": "poliroid",
+      "homepage": "https://gitlab.com/wot-public-mods/replays-manager",
+      "trust": "Community",
+      "requires": [
+        "me.poliroid.modslistapi"
+      ],
+      "releases": [
+        {
+          "version": "3.9.0",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://gitlab.com/-/project/26506260/uploads/31d11c344849a43d5497457826738ee5/me.poliroid.replaysmanager_3.9.0.wotmod",
+          "sha256": "37BDF2D8E2B1D350D1033FFF9AC5A7522B0095A256D1746F4F28C295F0BE7D4F"
+        }
+      ]
+    },
+    {
+      "id": "me.poliroid.tomatogg",
+      "name": {
+        "en": "Tomato.gg",
+        "ru": "Tomato.gg"
+      },
+      "description": {
+        "en": "Uploads your battle results to Tomato.gg for a full battle log and MoE tracking on the site.",
+        "ru": "Отправляет результаты боёв на Tomato.gg: полный журнал боёв и прогресс отметок на сайте."
+      },
+      "author": "POLIROID",
+      "homepage": "https://wgmods.net/6391/",
+      "trust": "Community",
+      "requires": [
+        "me.poliroid.modslistapi",
+        "net.openwg.gameface",
+        "net.openwg.fix.battleresultscache",
+        "net.openwg.fix.battleresultsreplays"
+      ],
+      "releases": [
+        {
+          "version": "2.2.04",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/tomatogg_2026.10.12.1.zip",
+          "sha256": "4EDAC67B1720CEF0CAF626F845F86E4004D88321195851F00849F59414ED645F",
+          "archiveEntry": "manual-install/me.poliroid.tomatogg_2.2.04.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "me.poliroid.skill4ltu",
+      "name": {
+        "en": "Skill4ltu",
+        "ru": "Skill4ltu"
+      },
+      "description": {
+        "en": "Official Skill4ltu mod: battle analytics and extended scoreboards (uploads battle data to Skill4ltu).",
+        "ru": "Официальный мод Skill4ltu: аналитика боёв и расширенные таблицы (отправляет данные боёв на Skill4ltu)."
+      },
+      "author": "POLIROID",
+      "homepage": "https://wgmods.net/7456/",
+      "trust": "Community",
+      "requires": [
+        "me.poliroid.modslistapi",
+        "net.openwg.gameface",
+        "net.openwg.fix.battleresultscache",
+        "net.openwg.fix.battleresultsreplays"
+      ],
+      "releases": [
+        {
+          "version": "1.5.09",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/skill4ltu_2026.10.12.1.zip",
+          "sha256": "26B44DF0AE392E202AC14332C9BBD8A63373D71C84FACC6B63A649F8080E0D15",
+          "archiveEntry": "manual-install/me.poliroid.skill4ltu_1.5.09.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "wotinspector.com.armor_inspector",
+      "name": {
+        "en": "Armor Inspector",
+        "ru": "Armor Inspector"
+      },
+      "description": {
+        "en": "Collision models, internal modules and crew layout, penetration check for any tank.",
+        "ru": "Модели бронирования, расположение модулей и экипажа, проверка пробития для любого танка."
+      },
+      "author": "reven86",
+      "homepage": "https://wgmods.net/2319/",
+      "trust": "Community",
+      "requires": [
+        "me.poliroid.modslistapi",
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "4.5.3",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/wotinspector.com.armor_inspector.4.5.3.wotmod.zip",
+          "sha256": "8802F74C7A0F9623E082C7FD428E0895AFB79516810581FD3A3B6396781E7E27",
+          "archiveEntry": "wotinspector.com.armor_inspector.4.5.3.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "com.github.pruszko.fastreconnect",
+      "name": {
+        "en": "Fast Reconnect",
+        "ru": "Быстрое переподключение"
+      },
+      "description": {
+        "en": "A hotkey to drop a dead connection and reconnect instead of waiting for the timeout.",
+        "ru": "Клавиша, чтобы разорвать зависшее соединение и переподключиться, не дожидаясь таймаута."
+      },
+      "author": "Pruszko",
+      "homepage": "https://wgmods.net/5473/",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.0.0",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/FastReconnect_yIKvSa4.wotmod",
+          "sha256": "C8F545515E6B63B58F1D434C1BD06C84F1BB9C7B90D86FB560AE6D9245D75DB5"
+        }
+      ]
+    },
+    {
+      "id": "wotinspector.com.hd_maps",
+      "name": {
+        "en": "WOTInspector HD minimaps",
+        "ru": "HD миникарты WOTInspector"
+      },
+      "description": {
+        "en": "Replaces minimaps with 2048×2048 HD maps from wotinspector.com (170 MB).",
+        "ru": "Заменяет миникарты на HD-карты 2048×2048 от wotinspector.com (170 МБ)."
+      },
+      "author": "reven86",
+      "homepage": "https://wgmods.net/434/",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "2.4.1",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/wotinspector.com.hd_maps.2.4.1.wotmod",
+          "sha256": "B07CD89684661D9B39C8F5AD246AC0A892F2AACCC9EA99AFB20023C2D76436DC"
+        }
+      ]
+    },
+    {
+      "id": "cilda.oldbattleresults",
+      "name": {
+        "en": "Old Battle Results",
+        "ru": "Старые результаты боя"
+      },
+      "description": {
+        "en": "Brings back the pre-2.0 battle results screen.",
+        "ru": "Возвращает экран результатов боя как до 2.0."
+      },
+      "author": "Kid9N_Prokhorovka_Legend",
+      "homepage": "https://wgmods.net/7450/",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.0.9",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/cilda.oldBattleResults_1.0.9.wotmod",
+          "sha256": "65CACD81747CC704CED7754F7DCD6F4952018696CACDFC13E933D78EC94F5168"
+        }
+      ]
+    },
+    {
+      "id": "crusable_progress_tracker",
+      "name": {
+        "en": "Crucible Progress Tracker",
+        "ru": "Прогресс «Горнила»"
+      },
+      "description": {
+        "en": "Crucible mission progress tab in the Tab team list during battle.",
+        "ru": "Вкладка с прогрессом задачи «Горнила» в списке команд по Tab во время боя."
+      },
+      "author": "WGmods",
+      "homepage": "https://wgmods.net/7760/",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.0.4",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/crusable_progress_tracker_1.0.4.wotmod",
+          "sha256": "7CCA0A66A1D92BC9DDA90E415E2DFAEBA716C2699EECA75BD4CE596EAC7A1834"
+        }
+      ]
+    },
+    {
+      "id": "Z4imon.tank_info_in_hangar",
+      "name": {
+        "en": "Tank Info in Hangar",
+        "ru": "Характеристики танка в ангаре"
+      },
+      "description": {
+        "en": "Keeps the vehicle stats panel visible in the hangar.",
+        "ru": "Держит панель характеристик танка видимой в ангаре."
+      },
+      "author": "Z4imon",
+      "homepage": "https://wgmods.net/7722/",
+      "trust": "Community",
+      "requires": [
+        "izeberg.modssettingsapi",
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "1.6",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/Z4imon.tank_info_in_hangar_2.4.1_1.6.zip",
+          "sha256": "8EE935766D9A651C324B8895EA94CA5B9952FB2166EF30E8E1394A9FE3CEE67F",
+          "archiveEntry": "Z4imon.tank_info_in_hangar_1.6.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "moe.overlay.standalone",
+      "name": {
+        "en": "Marks Of Excellence Overlay",
+        "ru": "Отметки в бою (оверлей)"
+      },
+      "description": {
+        "en": "Current and projected MoE and the damage needed, during battle.",
+        "ru": "Текущая и прогнозная отметка и нужный урон прямо в бою."
+      },
+      "author": "Gravity_Assist",
+      "homepage": "https://wgmods.net/7596/",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "1.9.2",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gravity.battle_moe_overlay.2.4.1.0.1.9.2.zip",
+          "sha256": "4EECED64B1EEC3A7B885EF8545DEE1AB51BCFCABCC0357315E48D94E8C6F8FE5",
+          "archiveEntry": "gravity.battle_moe_overlay.2.4.1.0.1.9.2.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "moe.tracker",
+      "name": {
+        "en": "Moe Tracker",
+        "ru": "Отметки в ангаре (трекер)"
+      },
+      "description": {
+        "en": "Minimal MoE progress display in the hangar.",
+        "ru": "Компактный прогресс отметок в ангаре."
+      },
+      "author": "Gravity_Assist",
+      "homepage": "https://wgmods.net/7578/",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.5.1",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gravity.moe_tracker.2.4.1.0.1.5.1.zip",
+          "sha256": "78B3DBC1C02070B5D7D509F6E2DCE6163B86AAE055788CADEBE2C4D1A4322F4C",
+          "archiveEntry": "gravity.moe_tracker.2.4.1.0.1.5.1.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "gravity.hangar.fps.uncapped",
+      "name": {
+        "en": "Hangar FPS Uncapper",
+        "ru": "Без лимита FPS в ангаре"
+      },
+      "description": {
+        "en": "Removes the 60 FPS cap in the hangar.",
+        "ru": "Снимает ограничение 60 FPS в ангаре."
+      },
+      "author": "Gravity_Assist",
+      "homepage": "https://wgmods.net/7260/",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.1",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gravity.hangar_fps_uncapper.2.4.1.0.1.1.zip",
+          "sha256": "99C3CA144E44BE427DA38D9E4113FED9232AC5919272ED24FCB0472DECB5A665",
+          "archiveEntry": "gravity.hangar.fps.uncapped.2.4.1.0.1.1.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "better.vehicle.preview",
+      "name": {
+        "en": "Better Vehicle Preview",
+        "ru": "Улучшенный просмотр техники"
+      },
+      "description": {
+        "en": "Preview any vehicle, including armor view, in the new preview screen.",
+        "ru": "Просмотр любой техники, включая бронирование, в новом окне предпросмотра."
+      },
+      "author": "Gravity_Assist",
+      "homepage": "https://wgmods.net/7504/",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.1",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gravity.better_vehicle_preview.2.4.1.0.1.1.zip",
+          "sha256": "45D0120A4B8DA38B4CCD7FCB30ED8DAED09B9AC99D585C5E2EDAC5E9AB5A45B3",
+          "archiveEntry": "gravity.better_vehicle_preview.2.4.1.0.1.1.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "centered.minimap",
+      "name": {
+        "en": "Centered Minimap",
+        "ru": "Миникарта по центру"
+      },
+      "description": {
+        "en": "Hold a hotkey to show the minimap in the middle of the screen.",
+        "ru": "По удержанию клавиши показывает миникарту в центре экрана."
+      },
+      "author": "Gravity_Assist",
+      "homepage": "https://wgmods.net/7969/",
+      "trust": "Community",
+      "requires": [
+        "izeberg.modssettingsapi"
+      ],
+      "releases": [
+        {
+          "version": "1.3.1",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gravity.centered_minimap.2.4.1.0.1.3.1.zip",
+          "sha256": "3801E8830937C7D9E87E06BC24AAFF19F63EBEF0BA04F105E50BE06AF79D2DA8",
+          "archiveEntry": "gravity.centered_minimap.2.4.1.0.1.3.1.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "sixthSense.byMode.duration",
+      "name": {
+        "en": "Accurate Sixth Sense Duration",
+        "ru": "Точная длительность шестого чувства"
+      },
+      "description": {
+        "en": "Sixth sense lamp duration that matches the game mode.",
+        "ru": "Длительность лампы шестого чувства по режиму боя."
+      },
+      "author": "Gravity_Assist",
+      "homepage": "https://wgmods.net/7633/",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.0.2",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gravity.sixth_sense_by_mode.2.4.1.0.1.0.2.zip",
+          "sha256": "9E723C78D03FD8AE37E731F0D206D21D7D7E0C289F2819262F7758F7011BF1B9",
+          "archiveEntry": "gravity.sixth_sense_by_mode.2.4.1.0.1.0.2.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "sagtary.fps_ping",
+      "name": {
+        "en": "FPS, Ping and Lag",
+        "ru": "FPS, пинг и лаги"
+      },
+      "description": {
+        "en": "Exact FPS, 1% low, ping and lag in one line, graphs on Alt.",
+        "ru": "Точные FPS, 1% low, пинг и лаги в одной строке, графики по Alt."
+      },
+      "author": "Sagtary",
+      "homepage": "https://wgmods.net/8015/",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.0.0",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/sagtary.fps_ping_1.0.0.wotmod",
+          "sha256": "D4CDFA006D9C63CC5438E35AA3E501B0527063819F6AB5B1429FDA40370673A4"
+        }
+      ]
+    },
+    {
+      "id": "com.overmatch.uploader",
+      "name": {
+        "en": "Overmatch.pro",
+        "ru": "Overmatch.pro"
+      },
+      "description": {
+        "en": "Uploads replays of chosen modes to your Overmatch.pro account.",
+        "ru": "Отправляет реплеи выбранных режимов в твой аккаунт Overmatch.pro."
+      },
+      "author": "Botzudo",
+      "homepage": "https://wgmods.net/7752/",
+      "trust": "Community",
+      "requires": [
+        "izeberg.modssettingsapi",
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "1.7.2",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/overmatch_JxsbB0E.zip",
+          "sha256": "5EDFB30A3DD5F05A1B89955EAAC1114DECC27B76797A4401C238E29CCE5C3FBB",
+          "archiveEntry": "mods/2.4.1.0/overmatch.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "moe_pro",
+      "name": {
+        "en": "MoE Pro",
+        "ru": "MoE Pro — калькулятор отметок"
+      },
+      "description": {
+        "en": "Marks of Excellence in the hangar, in battle and in a details window.",
+        "ru": "Отметки на орудии в ангаре, в бою и в окне подробностей."
+      },
+      "author": "Erwin_7755",
+      "homepage": "https://wgmods.net/7962/",
+      "trust": "Community",
+      "requires": [
+        "izeberg.modssettingsapi",
+        "me.poliroid.modslistapi",
+        "gambiter.guiflash",
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "1.4.2",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/MoE_Pro_1.4.2_WoT_2.4.1.0_yDgPQWl.zip",
+          "sha256": "BFA4E3745F93B9F6E79957FE47AF57F56B47B13878548706058F62BDFAC93918",
+          "archiveEntry": "mods/2.4.1.0/moe_pro_1.4.2.wotmod"
         }
       ]
     }
