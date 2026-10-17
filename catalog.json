@@ -1422,6 +1422,180 @@
           "archiveEntry": "mods/2.4.1.0/moe_pro_1.4.2.wotmod"
         }
       ]
+    },
+    {
+      "id": "app.gunmarks.reticle",
+      "name": {
+        "en": "Gunmarks: Reticle",
+        "ru": "Gunmarks: прицел"
+      },
+      "description": {
+        "en": "A reticle of your own with reload and HP gauges, reload time and an aiming circle. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in its config.json).",
+        "ru": "Свой прицел со шкалами перезарядки и HP, временем перезарядки и кругом сведения. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается \"telemetry\": false в его config.json)."
+      },
+      "author": "H17M4N",
+      "homepage": "https://wgmods.net/7980/",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "0.2.3",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_reticle_0.2.3.6_wot2.4.1.0.zip",
+          "sha256": "E1F31A4B447B33CD4546CE6C7A7DAD33F5D4A9B203CF816DEEDB556B6650E279",
+          "subfolder": "app.gunmarks",
+          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.reticle_0.2.3.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "app.gunmarks.moe",
+      "name": {
+        "en": "Gunmarks: Marks of Excellence",
+        "ru": "Gunmarks: отметки"
+      },
+      "description": {
+        "en": "Your Marks of Excellence in the garage and live in battle, with history. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in its config.json).",
+        "ru": "Отметки на орудии в ангаре и в бою в реальном времени, с историей. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается \"telemetry\": false в его config.json)."
+      },
+      "author": "H17M4N",
+      "homepage": "https://wgmods.net/7979/",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "0.2.3",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_moe_0.2.3.40_wot2.4.1.0.zip",
+          "sha256": "954B2625ECC008EDE59E0B71A87312DF1B384455DE6533575A89262887420C97",
+          "subfolder": "app.gunmarks",
+          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.moe_0.2.3.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "app.gunmarks.distance",
+      "name": {
+        "en": "Gunmarks: Distance to tanks",
+        "ru": "Gunmarks: дистанция до танков"
+      },
+      "description": {
+        "en": "Distance to each spotted tank on its marker. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in its config.json).",
+        "ru": "Дистанция до каждого засвеченного танка на его маркере. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается \"telemetry\": false в его config.json)."
+      },
+      "author": "H17M4N",
+      "homepage": "https://wgmods.net/7978/",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "0.2.3",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_distance_0.2.3.40_wot2.4.1.0.zip",
+          "sha256": "4308FE692999B65E10B8BC5E619CF52C963D52D585A6DAF02175259A6DD8D2B0",
+          "subfolder": "app.gunmarks",
+          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.distance_0.2.3.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "app.gunmarks.roleskills",
+      "name": {
+        "en": "Gunmarks: Role Skill charges",
+        "ru": "Gunmarks: заряды ролевых навыков"
+      },
+      "description": {
+        "en": "Your team's Role Skill charges in Onslaught's side panel. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in its config.json).",
+        "ru": "Заряды ролевых навыков союзников в боковой панели «Натиска». Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается \"telemetry\": false в его config.json)."
+      },
+      "author": "H17M4N",
+      "homepage": "https://wgmods.net/7977/",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "0.2.2",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_roleskills_0.2.2.39_wot2.4.1.0.zip",
+          "sha256": "BD34FAA5541A685383120C2C4CC84A1634313E5D5E7D7ADAEFBA86BDFA4D859E",
+          "subfolder": "app.gunmarks",
+          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.roleskills_0.2.2.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "app.gunmarks.onslaught",
+      "name": {
+        "en": "Gunmarks: Onslaught",
+        "ru": "Gunmarks: Натиск"
+      },
+      "description": {
+        "en": "Your Onslaught rank, last battles and stats in the garage and in battle. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in its config.json).",
+        "ru": "Ранг в «Натиске», последние бои и статистика в ангаре и в бою. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается \"telemetry\": false в его config.json)."
+      },
+      "author": "H17M4N",
+      "homepage": "https://wgmods.net/7976/",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "0.2.3",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_onslaught_0.2.3.40_wot2.4.1.0.zip",
+          "sha256": "94475611A8367B0F110D9D7C222296E5396AF5674666C574D4211E34C6084CE5",
+          "subfolder": "app.gunmarks",
+          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.onslaught_0.2.3.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "app.gunmarks.results",
+      "name": {
+        "en": "Gunmarks: Battle results",
+        "ru": "Gunmarks: результаты боя"
+      },
+      "description": {
+        "en": "Every player's win rate and/or WTR in the battle results, with team averages. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in its config.json).",
+        "ru": "Процент побед и/или WTR каждого игрока в результатах боя и средние по командам. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается \"telemetry\": false в его config.json)."
+      },
+      "author": "H17M4N",
+      "homepage": "https://wgmods.net/7981/",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "0.1.0",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_results_0.1.0.1_wot2.4.1.0.zip",
+          "sha256": "0DAF5CC9F277B52C8CBCF9882E1C2F3C2A83B17D987702A92F1C7B8A5DFDF308",
+          "subfolder": "app.gunmarks",
+          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.results_0.1.0.wotmod"
+        }
+      ]
     }
   ]
 }
