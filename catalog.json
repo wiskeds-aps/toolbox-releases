@@ -1430,8 +1430,8 @@
         "ru": "Gunmarks: прицел"
       },
       "description": {
-        "en": "A reticle of your own with reload and HP gauges, reload time and an aiming circle. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in its config.json).",
-        "ru": "Свой прицел со шкалами перезарядки и HP, временем перезарядки и кругом сведения. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается \"telemetry\": false в его config.json)."
+        "en": "A reticle of your own with reload and HP gauges, reload time and an aiming circle. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in mods/configs/app.gunmarks/core/config.json, then restart the game).",
+        "ru": "Свой прицел со шкалами перезарядки и HP, временем перезарядки и кругом сведения. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается строкой \"telemetry\": false в mods/configs/app.gunmarks/core/config.json и перезапуском игры)."
       },
       "author": "H17M4N",
       "homepage": "https://wgmods.net/7980/",
@@ -1459,8 +1459,8 @@
         "ru": "Gunmarks: отметки"
       },
       "description": {
-        "en": "Your Marks of Excellence in the garage and live in battle, with history. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in its config.json).",
-        "ru": "Отметки на орудии в ангаре и в бою в реальном времени, с историей. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается \"telemetry\": false в его config.json)."
+        "en": "Your Marks of Excellence in the garage and live in battle, with history. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in mods/configs/app.gunmarks/core/config.json, then restart the game).",
+        "ru": "Отметки на орудии в ангаре и в бою в реальном времени, с историей. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается строкой \"telemetry\": false в mods/configs/app.gunmarks/core/config.json и перезапуском игры)."
       },
       "author": "H17M4N",
       "homepage": "https://wgmods.net/7979/",
@@ -1488,8 +1488,8 @@
         "ru": "Gunmarks: дистанция до танков"
       },
       "description": {
-        "en": "Distance to each spotted tank on its marker. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in its config.json).",
-        "ru": "Дистанция до каждого засвеченного танка на его маркере. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается \"telemetry\": false в его config.json)."
+        "en": "Distance to each spotted tank on its marker. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in mods/configs/app.gunmarks/core/config.json, then restart the game).",
+        "ru": "Дистанция до каждого засвеченного танка на его маркере. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается строкой \"telemetry\": false в mods/configs/app.gunmarks/core/config.json и перезапуском игры)."
       },
       "author": "H17M4N",
       "homepage": "https://wgmods.net/7978/",
@@ -1517,8 +1517,8 @@
         "ru": "Gunmarks: заряды ролевых навыков"
       },
       "description": {
-        "en": "Your team's Role Skill charges in Onslaught's side panel. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in its config.json).",
-        "ru": "Заряды ролевых навыков союзников в боковой панели «Натиска». Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается \"telemetry\": false в его config.json)."
+        "en": "Your team's Role Skill charges in Onslaught's side panel. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in mods/configs/app.gunmarks/core/config.json, then restart the game).",
+        "ru": "Заряды ролевых навыков союзников в боковой панели «Натиска». Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается строкой \"telemetry\": false в mods/configs/app.gunmarks/core/config.json и перезапуском игры)."
       },
       "author": "H17M4N",
       "homepage": "https://wgmods.net/7977/",
@@ -1546,8 +1546,8 @@
         "ru": "Gunmarks: Натиск"
       },
       "description": {
-        "en": "Your Onslaught rank, last battles and stats in the garage and in battle. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in its config.json).",
-        "ru": "Ранг в «Натиске», последние бои и статистика в ангаре и в бою. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается \"telemetry\": false в его config.json)."
+        "en": "Your Onslaught rank, last battles and stats in the garage and in battle. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in mods/configs/app.gunmarks/core/config.json, then restart the game).",
+        "ru": "Ранг в «Натиске», последние бои и статистика в ангаре и в бою. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается строкой \"telemetry\": false в mods/configs/app.gunmarks/core/config.json и перезапуском игры)."
       },
       "author": "H17M4N",
       "homepage": "https://wgmods.net/7976/",
@@ -1575,8 +1575,8 @@
         "ru": "Gunmarks: результаты боя"
       },
       "description": {
-        "en": "Every player's win rate and/or WTR in the battle results, with team averages. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in its config.json).",
-        "ru": "Процент побед и/или WTR каждого игрока в результатах боя и средние по командам. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается \"telemetry\": false в его config.json)."
+        "en": "Every player's win rate and/or WTR in the battle results, with team averages. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in mods/configs/app.gunmarks/core/config.json, then restart the game).",
+        "ru": "Процент побед и/или WTR каждого игрока в результатах боя и средние по командам. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается строкой \"telemetry\": false в mods/configs/app.gunmarks/core/config.json и перезапуском игры)."
       },
       "author": "H17M4N",
       "homepage": "https://wgmods.net/7981/",
