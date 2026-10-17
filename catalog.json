@@ -216,6 +216,191 @@
           "sha256": "97586A5ECAA389A130E48FDEF1C32985527DE152E312725737D78E73A3156DDD"
         }
       ]
+    },
+    {
+      "id": "com.14th_ua.moe_calculator",
+      "name": {
+        "en": "MoE Calculator",
+        "ru": "Калькулятор отметок (MoE)"
+      },
+      "description": {
+        "en": "Live Marks of Excellence progress in battle: how much damage you need for the next mark.",
+        "ru": "Прогресс отметок на стволе прямо в бою: сколько урона нужно до следующей отметки."
+      },
+      "author": "drizzer14",
+      "homepage": "https://github.com/drizzer14/moe-calculator",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "8.0.0",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/drizzer14/moe-calculator/releases/download/v8.0.0/com.14th_ua.moe_calculator_8.0.0.wotmod",
+          "sha256": "A973D42C0B14AA97DF070087CAEB921196D784357DE223DF1B5950D4086F2D02"
+        }
+      ]
+    },
+    {
+      "id": "com.14th_ua.garageprogressbar",
+      "name": {
+        "en": "Garage Progress Bar",
+        "ru": "Прогресс отметок в ангаре"
+      },
+      "description": {
+        "en": "Marks of Excellence and Mastery progress bars in the hangar.",
+        "ru": "Полоски прогресса отметок на стволе и «Мастера» в ангаре."
+      },
+      "author": "drizzer14",
+      "homepage": "https://github.com/drizzer14/garage-progress-bar",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "8.0.0",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/drizzer14/garage-progress-bar/releases/download/v8.0.0/com.14th_ua.garageprogressbar_8.0.0.wotmod",
+          "sha256": "55970185B398C94A7C90F2FEE903E013EEBC5B56A9CFB95907A9AF0900795B98"
+        }
+      ]
+    },
+    {
+      "id": "hangar.carousel.classic",
+      "name": {
+        "en": "Classic Tank Carousel",
+        "ru": "Классическая карусель"
+      },
+      "description": {
+        "en": "Brings back the classic tank carousel in the hangar.",
+        "ru": "Возвращает классическую карусель танков в ангаре."
+      },
+      "author": "ticzz",
+      "homepage": "https://github.com/ticzz/world-of-tanks-mod-hangar-carousel-classic",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "1.0.22",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/ticzz/world-of-tanks-mod-hangar-carousel-classic/releases/download/v1.0.22/mod_hangar_carousel_classic_1.0.22.wotmod",
+          "sha256": "1C2DD6C2A6FD3639A7FBBC46685017315212EF34311D3E7390254E05DBF8BCC9"
+        }
+      ]
+    },
+    {
+      "id": "mod.wot_stat",
+      "name": {
+        "en": "WotStat Analytics",
+        "ru": "WotStat: аналитика"
+      },
+      "description": {
+        "en": "Records your shots and battles and sends them to wotstat.info for detailed statistics.",
+        "ru": "Записывает выстрелы и бои и отправляет их на wotstat.info для подробной статистики."
+      },
+      "author": "WotStat",
+      "homepage": "https://github.com/wotstat/wotstat-analytics",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.6.4.0",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/wotstat/wotstat-analytics/releases/download/1.6.4.0/mod.wotStat_1.6.4.0.wotmod",
+          "sha256": "4EEE63DD00DF019B90412A74CA00C6576512B3CA85892F2EE206081D54110D39"
+        }
+      ]
+    },
+    {
+      "id": "wotstat.positions",
+      "name": {
+        "en": "WotStat Positions",
+        "ru": "WotStat: позиции"
+      },
+      "description": {
+        "en": "Hints for popular positions on the map, based on WotStat data.",
+        "ru": "Подсказки популярных позиций на карте по данным WotStat."
+      },
+      "author": "WotStat",
+      "homepage": "https://github.com/wotstat/wotstat-positions",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "2.1.1",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/wotstat/wotstat-positions/releases/download/2.1.1/wotstat.positions_2.1.1.wotmod",
+          "sha256": "6BCE29FB6F2A7029BCBF342639726ADE8BB055D24F610E449F027FC5FDF00294"
+        }
+      ]
+    },
+    {
+      "id": "wotstat.spotting-points",
+      "name": {
+        "en": "WotStat Spotting Points",
+        "ru": "WotStat: точки обзора"
+      },
+      "description": {
+        "en": "Shows your tank's view-range points in the hangar.",
+        "ru": "Показывает точки обзора танка в ангаре."
+      },
+      "author": "WotStat",
+      "homepage": "https://github.com/wotstat/wotstat-spotting-points",
+      "trust": "Community",
+      "requires": [
+        "me.poliroid.modslistapi"
+      ],
+      "releases": [
+        {
+          "version": "1.1.2",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/wotstat/wotstat-spotting-points/releases/download/1.1.2/wotstat.spotting-points_1.1.2.wotmod",
+          "sha256": "74E2088C475BE673DCAB89A74F545B8081CF4E016DAE35D92DF0C718BC58F15A"
+        }
+      ]
+    },
+    {
+      "id": "wotstat.widgets",
+      "name": {
+        "en": "WotStat Widgets",
+        "ru": "WotStat: виджеты"
+      },
+      "description": {
+        "en": "Web widgets (stream overlays and more) inside the game.",
+        "ru": "Веб-виджеты (стримерские оверлеи и другое) прямо в игре."
+      },
+      "author": "WotStat",
+      "homepage": "https://github.com/wotstat/wotstat-widgets",
+      "trust": "Community",
+      "requires": [
+        "me.poliroid.modslistapi"
+      ],
+      "releases": [
+        {
+          "version": "2.1.1",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/wotstat/wotstat-widgets/releases/download/2.1.1/wotstat.widgets_2.1.1.wotmod",
+          "sha256": "DCF11475D735911460762051108F1D6C184D57D95A5A78289F91277D0442255A"
+        }
+      ]
     }
   ]
 }
