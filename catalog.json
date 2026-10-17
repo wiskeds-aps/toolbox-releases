@@ -688,6 +688,62 @@
           "archiveEntry": "mods/2.4.1.0/spoter/mod_muteSoundHotKey_1.03.wotmod"
         }
       ]
+    },
+    {
+      "id": "vxSettingsApi",
+      "name": {
+        "en": "vxSettingsApi",
+        "ru": "vxSettingsApi"
+      },
+      "description": {
+        "en": "Settings window library used by Battle Observer.",
+        "ru": "Библиотека окна настроек, нужна Battle Observer."
+      },
+      "author": "PolarFox / Armagomen",
+      "homepage": "https://github.com/Armagomen/battle_observer",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.14.9",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/Armagomen/battle_observer/releases/download/1.43.45/AutoUpdate.zip",
+          "sha256": "58E6B60955EEF4F5013490BE76505FCD875CF78C5A2B052F7C0066073B99A611",
+          "archiveEntry": "polarfox.vxSettingsApi_1.14.9.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "armagomen.Battle_Observer",
+      "name": {
+        "en": "Battle Observer",
+        "ru": "Battle Observer"
+      },
+      "description": {
+        "en": "Large battle interface pack: team HP bar, damage log, tank counters, ping/FPS panel, battle timer, player stats, hangar clock and efficiency, and more.",
+        "ru": "Большой набор улучшений боевого интерфейса: полоса ХП команд, лог урона, счётчик танков, панели пинга и FPS, таймер боя, статистика игроков, часы и эффективность в ангаре и многое другое."
+      },
+      "author": "Armagomen",
+      "homepage": "https://github.com/Armagomen/battle_observer",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface",
+        "me.poliroid.modslistapi",
+        "vxSettingsApi"
+      ],
+      "releases": [
+        {
+          "version": "1.43.45",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/Armagomen/battle_observer/releases/download/1.43.45/AutoUpdate.zip",
+          "sha256": "58E6B60955EEF4F5013490BE76505FCD875CF78C5A2B052F7C0066073B99A611",
+          "archiveEntry": "armagomen.battleObserver_1.43.45.wotmod"
+        }
+      ]
     }
   ]
 }
