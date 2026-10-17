@@ -25,6 +25,9 @@
           "sha256": "2BB65F28663E3AB34B5A1102A1BBD1F6E17A65E1F6A898A8645C4AB732B50184",
           "subfolder": "net.openwg"
         }
+      ],
+      "categories": [
+        "libraries"
       ]
     },
     {
@@ -52,6 +55,9 @@
           "url": "https://gitlab.com/-/project/26509092/uploads/5f859d1552fd2daa7896a28b67e4f132/me.poliroid.modslistapi_1.8.0.wotmod",
           "sha256": "C6E4A1D9476B0195C3B4FAB392CF5D68C00F1D02FD79E29BD7424EBDA88B498C"
         }
+      ],
+      "categories": [
+        "libraries"
       ]
     },
     {
@@ -79,6 +85,9 @@
           "url": "https://github.com/izeberg/modssettingsapi/releases/download/1.7.1/izeberg.modssettingsapi_1.7.1.wotmod",
           "sha256": "439C0ED636CA8925A7029CEEDB007D872B7BC7DF16D41712E22B1A95083C239B"
         }
+      ],
+      "categories": [
+        "libraries"
       ]
     },
     {
@@ -106,6 +115,10 @@
           "url": "https://gitlab.com/-/project/26506974/uploads/8ac1284119f98dbb26fc6a9f2e959183/me.poliroid.battlehits_2.4.2.wotmod",
           "sha256": "F842E3428008E88FD5855D8E9E3A70FF37F35B8F94244F755238A53BD3D677CB"
         }
+      ],
+      "categories": [
+        "hangar",
+        "replays"
       ]
     },
     {
@@ -134,6 +147,9 @@
           "sha256": "CDE48C6CD0B88B7886FB0297A93AEA2BE5D628D0FD3B9BAB10D9E5690B1679D5",
           "archiveEntry": "pruszko.distance_marker_2.2.5.wotmod"
         }
+      ],
+      "categories": [
+        "battle"
       ]
     },
     {
@@ -162,6 +178,9 @@
           "sha256": "0901494A8BE70140E9006725772B3E1ED85D5EA82B52CD6161D5613DE26D0F28",
           "archiveEntry": "pruszko.dispersion_reticle_3.1.13.wotmod"
         }
+      ],
+      "categories": [
+        "crosshairs"
       ]
     },
     {
@@ -190,6 +209,9 @@
           "sha256": "CB34A60B160AE1A0FCFE4373ECD815429218ADD8F8B6E6ED011418E65CADD8D8",
           "archiveEntry": "pruszko.achievement_notification_1.2.6.wotmod"
         }
+      ],
+      "categories": [
+        "battle"
       ]
     },
     {
@@ -215,6 +237,9 @@
           "url": "https://github.com/Pruszko/ResponsiveReticle/releases/download/v1.0.12/pruszko.responsive_reticle_1.0.12.wotmod",
           "sha256": "97586A5ECAA389A130E48FDEF1C32985527DE152E312725737D78E73A3156DDD"
         }
+      ],
+      "categories": [
+        "crosshairs"
       ]
     },
     {
@@ -242,6 +267,9 @@
           "url": "https://github.com/drizzer14/moe-calculator/releases/download/v8.0.0/com.14th_ua.moe_calculator_8.0.0.wotmod",
           "sha256": "A973D42C0B14AA97DF070087CAEB921196D784357DE223DF1B5950D4086F2D02"
         }
+      ],
+      "categories": [
+        "stats"
       ]
     },
     {
@@ -269,6 +297,10 @@
           "url": "https://github.com/drizzer14/garage-progress-bar/releases/download/v8.0.0/com.14th_ua.garageprogressbar_8.0.0.wotmod",
           "sha256": "55970185B398C94A7C90F2FEE903E013EEBC5B56A9CFB95907A9AF0900795B98"
         }
+      ],
+      "categories": [
+        "stats",
+        "hangar"
       ]
     },
     {
@@ -296,6 +328,9 @@
           "url": "https://github.com/ticzz/world-of-tanks-mod-hangar-carousel-classic/releases/download/v1.0.22/mod_hangar_carousel_classic_1.0.22.wotmod",
           "sha256": "1C2DD6C2A6FD3639A7FBBC46685017315212EF34311D3E7390254E05DBF8BCC9"
         }
+      ],
+      "categories": [
+        "hangar"
       ]
     },
     {
@@ -321,6 +356,9 @@
           "url": "https://github.com/wotstat/wotstat-analytics/releases/download/1.6.4.0/mod.wotStat_1.6.4.0.wotmod",
           "sha256": "4EEE63DD00DF019B90412A74CA00C6576512B3CA85892F2EE206081D54110D39"
         }
+      ],
+      "categories": [
+        "stats"
       ]
     },
     {
@@ -346,6 +384,9 @@
           "url": "https://github.com/wotstat/wotstat-positions/releases/download/2.1.1/wotstat.positions_2.1.1.wotmod",
           "sha256": "6BCE29FB6F2A7029BCBF342639726ADE8BB055D24F610E449F027FC5FDF00294"
         }
+      ],
+      "categories": [
+        "minimap"
       ]
     },
     {
@@ -373,6 +414,9 @@
           "url": "https://github.com/wotstat/wotstat-spotting-points/releases/download/1.1.2/wotstat.spotting-points_1.1.2.wotmod",
           "sha256": "74E2088C475BE673DCAB89A74F545B8081CF4E016DAE35D92DF0C718BC58F15A"
         }
+      ],
+      "categories": [
+        "minimap"
       ]
     },
     {
@@ -400,6 +444,10 @@
           "url": "https://github.com/wotstat/wotstat-widgets/releases/download/2.1.1/wotstat.widgets_2.1.1.wotmod",
           "sha256": "DCF11475D735911460762051108F1D6C184D57D95A5A78289F91277D0442255A"
         }
+      ],
+      "categories": [
+        "stats",
+        "battle"
       ]
     },
     {
@@ -426,6 +474,9 @@
           "sha256": "0BA59BE20CD25FB91FF395F7A7ED298B87BD388F1D0C1704D3659EE592ABD627",
           "archiveEntry": "mods/2.4.1.0/gambiter.guiflash_0.6.7.wotmod"
         }
+      ],
+      "categories": [
+        "libraries"
       ]
     },
     {
@@ -455,6 +506,9 @@
           "sha256": "0BA59BE20CD25FB91FF395F7A7ED298B87BD388F1D0C1704D3659EE592ABD627",
           "archiveEntry": "mods/2.4.1.0/mod_mods_gui_3.11.wotmod"
         }
+      ],
+      "categories": [
+        "libraries"
       ]
     },
     {
@@ -484,6 +538,10 @@
           "subfolder": "spoter",
           "archiveEntry": "mods/2.4.1.0/spoter/mod_marksOnGunExtended_9.15.wotmod"
         }
+      ],
+      "categories": [
+        "stats",
+        "battle"
       ]
     },
     {
@@ -513,6 +571,10 @@
           "subfolder": "spoter",
           "archiveEntry": "mods/2.4.1.0/spoter/mod_creditCalc_2.12.wotmod"
         }
+      ],
+      "categories": [
+        "stats",
+        "battle"
       ]
     },
     {
@@ -542,6 +604,9 @@
           "subfolder": "spoter",
           "archiveEntry": "mods/2.4.1.0/spoter/mod_spotted_extended_light_4.18.wotmod"
         }
+      ],
+      "categories": [
+        "battle"
       ]
     },
     {
@@ -571,6 +636,9 @@
           "subfolder": "spoter",
           "archiveEntry": "mods/2.4.1.0/spoter/mod_server_turret_extended_3.15.wotmod"
         }
+      ],
+      "categories": [
+        "crosshairs"
       ]
     },
     {
@@ -600,6 +668,9 @@
           "subfolder": "spoter",
           "archiveEntry": "mods/2.4.1.0/spoter/mod_artySplash_2.18.wotmod"
         }
+      ],
+      "categories": [
+        "crosshairs"
       ]
     },
     {
@@ -629,6 +700,9 @@
           "subfolder": "spoter",
           "archiveEntry": "mods/2.4.1.0/spoter/mod_autoServerSight_1.03.wotmod"
         }
+      ],
+      "categories": [
+        "crosshairs"
       ]
     },
     {
@@ -658,6 +732,9 @@
           "subfolder": "spoter",
           "archiveEntry": "mods/2.4.1.0/spoter/mod_discordHangar_1.03.wotmod"
         }
+      ],
+      "categories": [
+        "tools"
       ]
     },
     {
@@ -687,6 +764,9 @@
           "subfolder": "spoter",
           "archiveEntry": "mods/2.4.1.0/spoter/mod_muteSoundHotKey_1.03.wotmod"
         }
+      ],
+      "categories": [
+        "tools"
       ]
     },
     {
@@ -713,6 +793,9 @@
           "sha256": "58E6B60955EEF4F5013490BE76505FCD875CF78C5A2B052F7C0066073B99A611",
           "archiveEntry": "polarfox.vxSettingsApi_1.14.9.wotmod"
         }
+      ],
+      "categories": [
+        "libraries"
       ]
     },
     {
@@ -743,6 +826,10 @@
           "sha256": "58E6B60955EEF4F5013490BE76505FCD875CF78C5A2B052F7C0066073B99A611",
           "archiveEntry": "armagomen.battleObserver_1.43.45.wotmod"
         }
+      ],
+      "categories": [
+        "battle",
+        "hangar"
       ]
     },
     {
@@ -771,6 +858,9 @@
           "sha256": "1AB4A6926E95AB0A7FF6827187FCEEB58D6654B9F12CDEBA9F8621369B8E9AD3",
           "archiveEntry": "Jak_Atackka.betterReticleSize_1.3.wotmod"
         }
+      ],
+      "categories": [
+        "crosshairs"
       ]
     },
     {
@@ -796,6 +886,9 @@
           "url": "https://modp.wgcdn.co/media/mod_files/ReticleSizeLimitRemover_1.0.1_HGjvwOd.wotmod",
           "sha256": "E5FFE44A3EC764EBCC692A93A770FFE7A0C07CEB0F0C18E45B847BE5096683C7"
         }
+      ],
+      "categories": [
+        "crosshairs"
       ]
     },
     {
@@ -821,6 +914,10 @@
           "url": "https://modp.wgcdn.co/media/mod_files/wotinspector.com.battle_assistant.2.6.3.wotmod",
           "sha256": "8765AF2BD099E2D7746AC5AE13B6CDAAA5A69FF0174EF95BCEA88508B8B3AC93"
         }
+      ],
+      "categories": [
+        "crosshairs",
+        "battle"
       ]
     },
     {
@@ -849,6 +946,9 @@
           "sha256": "DF41B9E3D12A58FA666F00891811037AE7587F66C51EAE75B50527C9BFF3404B",
           "archiveEntry": "gravity.crosshair.ballistics.info.2.4.1.0.1.5.2.wotmod"
         }
+      ],
+      "categories": [
+        "crosshairs"
       ]
     },
     {
@@ -877,6 +977,9 @@
           "sha256": "11496ED0C4262819D9A9899AA2EFD0034CB58DEE8EB293377704252FC602C63C",
           "archiveEntry": "gravity.dynamic_flashlight_colours.2.4.1.0.1.3.wotmod"
         }
+      ],
+      "categories": [
+        "crosshairs"
       ]
     },
     {
@@ -903,6 +1006,9 @@
           "sha256": "A98A724E5DAC3A1147A0A99A0BA20866DB33DCC1378B412E036998170C0F06AB",
           "subfolder": "net.openwg"
         }
+      ],
+      "categories": [
+        "libraries"
       ]
     },
     {
@@ -929,6 +1035,9 @@
           "sha256": "98A3EB1C509B33C247ABF65B99BAE40D77873E8B4F2EC58237B711F2A7228F2A",
           "subfolder": "net.openwg"
         }
+      ],
+      "categories": [
+        "libraries"
       ]
     },
     {
@@ -956,6 +1065,9 @@
           "url": "https://gitlab.com/-/project/26506260/uploads/31d11c344849a43d5497457826738ee5/me.poliroid.replaysmanager_3.9.0.wotmod",
           "sha256": "37BDF2D8E2B1D350D1033FFF9AC5A7522B0095A256D1746F4F28C295F0BE7D4F"
         }
+      ],
+      "categories": [
+        "replays"
       ]
     },
     {
@@ -987,6 +1099,9 @@
           "sha256": "4EDAC67B1720CEF0CAF626F845F86E4004D88321195851F00849F59414ED645F",
           "archiveEntry": "manual-install/me.poliroid.tomatogg_2.2.04.wotmod"
         }
+      ],
+      "categories": [
+        "stats"
       ]
     },
     {
@@ -1018,6 +1133,9 @@
           "sha256": "26B44DF0AE392E202AC14332C9BBD8A63373D71C84FACC6B63A649F8080E0D15",
           "archiveEntry": "manual-install/me.poliroid.skill4ltu_1.5.09.wotmod"
         }
+      ],
+      "categories": [
+        "stats"
       ]
     },
     {
@@ -1047,6 +1165,9 @@
           "sha256": "8802F74C7A0F9623E082C7FD428E0895AFB79516810581FD3A3B6396781E7E27",
           "archiveEntry": "wotinspector.com.armor_inspector.4.5.3.wotmod"
         }
+      ],
+      "categories": [
+        "hangar"
       ]
     },
     {
@@ -1072,6 +1193,9 @@
           "url": "https://modp.wgcdn.co/media/mod_files/FastReconnect_yIKvSa4.wotmod",
           "sha256": "C8F545515E6B63B58F1D434C1BD06C84F1BB9C7B90D86FB560AE6D9245D75DB5"
         }
+      ],
+      "categories": [
+        "tools"
       ]
     },
     {
@@ -1097,6 +1221,9 @@
           "url": "https://modp.wgcdn.co/media/mod_files/wotinspector.com.hd_maps.2.4.1.wotmod",
           "sha256": "B07CD89684661D9B39C8F5AD246AC0A892F2AACCC9EA99AFB20023C2D76436DC"
         }
+      ],
+      "categories": [
+        "minimap"
       ]
     },
     {
@@ -1122,6 +1249,9 @@
           "url": "https://modp.wgcdn.co/media/mod_files/cilda.oldBattleResults_1.0.9.wotmod",
           "sha256": "65CACD81747CC704CED7754F7DCD6F4952018696CACDFC13E933D78EC94F5168"
         }
+      ],
+      "categories": [
+        "hangar"
       ]
     },
     {
@@ -1147,6 +1277,9 @@
           "url": "https://modp.wgcdn.co/media/mod_files/crusable_progress_tracker_1.0.4.wotmod",
           "sha256": "7CCA0A66A1D92BC9DDA90E415E2DFAEBA716C2699EECA75BD4CE596EAC7A1834"
         }
+      ],
+      "categories": [
+        "battle"
       ]
     },
     {
@@ -1176,6 +1309,9 @@
           "sha256": "8EE935766D9A651C324B8895EA94CA5B9952FB2166EF30E8E1394A9FE3CEE67F",
           "archiveEntry": "Z4imon.tank_info_in_hangar_1.6.wotmod"
         }
+      ],
+      "categories": [
+        "hangar"
       ]
     },
     {
@@ -1204,6 +1340,10 @@
           "sha256": "4EECED64B1EEC3A7B885EF8545DEE1AB51BCFCABCC0357315E48D94E8C6F8FE5",
           "archiveEntry": "gravity.battle_moe_overlay.2.4.1.0.1.9.2.wotmod"
         }
+      ],
+      "categories": [
+        "stats",
+        "battle"
       ]
     },
     {
@@ -1230,6 +1370,10 @@
           "sha256": "78B3DBC1C02070B5D7D509F6E2DCE6163B86AAE055788CADEBE2C4D1A4322F4C",
           "archiveEntry": "gravity.moe_tracker.2.4.1.0.1.5.1.wotmod"
         }
+      ],
+      "categories": [
+        "stats",
+        "hangar"
       ]
     },
     {
@@ -1256,6 +1400,10 @@
           "sha256": "99C3CA144E44BE427DA38D9E4113FED9232AC5919272ED24FCB0472DECB5A665",
           "archiveEntry": "gravity.hangar.fps.uncapped.2.4.1.0.1.1.wotmod"
         }
+      ],
+      "categories": [
+        "hangar",
+        "tools"
       ]
     },
     {
@@ -1282,6 +1430,9 @@
           "sha256": "45D0120A4B8DA38B4CCD7FCB30ED8DAED09B9AC99D585C5E2EDAC5E9AB5A45B3",
           "archiveEntry": "gravity.better_vehicle_preview.2.4.1.0.1.1.wotmod"
         }
+      ],
+      "categories": [
+        "hangar"
       ]
     },
     {
@@ -1310,6 +1461,9 @@
           "sha256": "3801E8830937C7D9E87E06BC24AAFF19F63EBEF0BA04F105E50BE06AF79D2DA8",
           "archiveEntry": "gravity.centered_minimap.2.4.1.0.1.3.1.wotmod"
         }
+      ],
+      "categories": [
+        "minimap"
       ]
     },
     {
@@ -1336,6 +1490,9 @@
           "sha256": "9E723C78D03FD8AE37E731F0D206D21D7D7E0C289F2819262F7758F7011BF1B9",
           "archiveEntry": "gravity.sixth_sense_by_mode.2.4.1.0.1.0.2.wotmod"
         }
+      ],
+      "categories": [
+        "battle"
       ]
     },
     {
@@ -1361,6 +1518,10 @@
           "url": "https://modp.wgcdn.co/media/mod_files/sagtary.fps_ping_1.0.0.wotmod",
           "sha256": "D4CDFA006D9C63CC5438E35AA3E501B0527063819F6AB5B1429FDA40370673A4"
         }
+      ],
+      "categories": [
+        "battle",
+        "tools"
       ]
     },
     {
@@ -1390,6 +1551,10 @@
           "sha256": "5EDFB30A3DD5F05A1B89955EAAC1114DECC27B76797A4401C238E29CCE5C3FBB",
           "archiveEntry": "mods/2.4.1.0/overmatch.wotmod"
         }
+      ],
+      "categories": [
+        "stats",
+        "replays"
       ]
     },
     {
@@ -1421,6 +1586,9 @@
           "sha256": "BFA4E3745F93B9F6E79957FE47AF57F56B47B13878548706058F62BDFAC93918",
           "archiveEntry": "mods/2.4.1.0/moe_pro_1.4.2.wotmod"
         }
+      ],
+      "categories": [
+        "stats"
       ]
     },
     {
@@ -1430,8 +1598,8 @@
         "ru": "Gunmarks: прицел"
       },
       "description": {
-        "en": "A reticle of your own with reload and HP gauges, reload time and an aiming circle. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in mods/configs/app.gunmarks/core/config.json, then restart the game).",
-        "ru": "Свой прицел со шкалами перезарядки и HP, временем перезарядки и кругом сведения. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается строкой \"telemetry\": false в mods/configs/app.gunmarks/core/config.json и перезапуском игры)."
+        "en": "A reticle of your own with reload and HP gauges, reload time and an aiming circle. Sends anonymous usage counts and error reports to gunmarks.app (turn off in Settings → Mod privacy).",
+        "ru": "Свой прицел со шкалами перезарядки и HP, временем перезарядки и кругом сведения. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается в Настройки → Приватность модов)."
       },
       "author": "H17M4N",
       "homepage": "https://wgmods.net/7980/",
@@ -1450,6 +1618,9 @@
           "subfolder": "app.gunmarks",
           "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.reticle_0.2.3.wotmod"
         }
+      ],
+      "categories": [
+        "crosshairs"
       ]
     },
     {
@@ -1459,8 +1630,8 @@
         "ru": "Gunmarks: отметки"
       },
       "description": {
-        "en": "Your Marks of Excellence in the garage and live in battle, with history. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in mods/configs/app.gunmarks/core/config.json, then restart the game).",
-        "ru": "Отметки на орудии в ангаре и в бою в реальном времени, с историей. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается строкой \"telemetry\": false в mods/configs/app.gunmarks/core/config.json и перезапуском игры)."
+        "en": "Your Marks of Excellence in the garage and live in battle, with history. Sends anonymous usage counts and error reports to gunmarks.app (turn off in Settings → Mod privacy).",
+        "ru": "Отметки на орудии в ангаре и в бою в реальном времени, с историей. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается в Настройки → Приватность модов)."
       },
       "author": "H17M4N",
       "homepage": "https://wgmods.net/7979/",
@@ -1479,6 +1650,9 @@
           "subfolder": "app.gunmarks",
           "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.moe_0.2.3.wotmod"
         }
+      ],
+      "categories": [
+        "stats"
       ]
     },
     {
@@ -1488,8 +1662,8 @@
         "ru": "Gunmarks: дистанция до танков"
       },
       "description": {
-        "en": "Distance to each spotted tank on its marker. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in mods/configs/app.gunmarks/core/config.json, then restart the game).",
-        "ru": "Дистанция до каждого засвеченного танка на его маркере. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается строкой \"telemetry\": false в mods/configs/app.gunmarks/core/config.json и перезапуском игры)."
+        "en": "Distance to each spotted tank on its marker. Sends anonymous usage counts and error reports to gunmarks.app (turn off in Settings → Mod privacy).",
+        "ru": "Дистанция до каждого засвеченного танка на его маркере. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается в Настройки → Приватность модов)."
       },
       "author": "H17M4N",
       "homepage": "https://wgmods.net/7978/",
@@ -1508,6 +1682,9 @@
           "subfolder": "app.gunmarks",
           "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.distance_0.2.3.wotmod"
         }
+      ],
+      "categories": [
+        "battle"
       ]
     },
     {
@@ -1517,8 +1694,8 @@
         "ru": "Gunmarks: заряды ролевых навыков"
       },
       "description": {
-        "en": "Your team's Role Skill charges in Onslaught's side panel. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in mods/configs/app.gunmarks/core/config.json, then restart the game).",
-        "ru": "Заряды ролевых навыков союзников в боковой панели «Натиска». Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается строкой \"telemetry\": false в mods/configs/app.gunmarks/core/config.json и перезапуском игры)."
+        "en": "Your team's Role Skill charges in Onslaught's side panel. Sends anonymous usage counts and error reports to gunmarks.app (turn off in Settings → Mod privacy).",
+        "ru": "Заряды ролевых навыков союзников в боковой панели «Натиска». Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается в Настройки → Приватность модов)."
       },
       "author": "H17M4N",
       "homepage": "https://wgmods.net/7977/",
@@ -1537,6 +1714,9 @@
           "subfolder": "app.gunmarks",
           "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.roleskills_0.2.2.wotmod"
         }
+      ],
+      "categories": [
+        "battle"
       ]
     },
     {
@@ -1546,8 +1726,8 @@
         "ru": "Gunmarks: Натиск"
       },
       "description": {
-        "en": "Your Onslaught rank, last battles and stats in the garage and in battle. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in mods/configs/app.gunmarks/core/config.json, then restart the game).",
-        "ru": "Ранг в «Натиске», последние бои и статистика в ангаре и в бою. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается строкой \"telemetry\": false в mods/configs/app.gunmarks/core/config.json и перезапуском игры)."
+        "en": "Your Onslaught rank, last battles and stats in the garage and in battle. Sends anonymous usage counts and error reports to gunmarks.app (turn off in Settings → Mod privacy).",
+        "ru": "Ранг в «Натиске», последние бои и статистика в ангаре и в бою. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается в Настройки → Приватность модов)."
       },
       "author": "H17M4N",
       "homepage": "https://wgmods.net/7976/",
@@ -1566,6 +1746,9 @@
           "subfolder": "app.gunmarks",
           "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.onslaught_0.2.3.wotmod"
         }
+      ],
+      "categories": [
+        "stats"
       ]
     },
     {
@@ -1575,8 +1758,8 @@
         "ru": "Gunmarks: результаты боя"
       },
       "description": {
-        "en": "Every player's win rate and/or WTR in the battle results, with team averages. Sends anonymous usage counts and error reports to gunmarks.app (off: \"telemetry\": false in mods/configs/app.gunmarks/core/config.json, then restart the game).",
-        "ru": "Процент побед и/или WTR каждого игрока в результатах боя и средние по командам. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается строкой \"telemetry\": false в mods/configs/app.gunmarks/core/config.json и перезапуском игры)."
+        "en": "Every player's win rate and/or WTR in the battle results, with team averages. Sends anonymous usage counts and error reports to gunmarks.app (turn off in Settings → Mod privacy).",
+        "ru": "Процент побед и/или WTR каждого игрока в результатах боя и средние по командам. Отправляет анонимную статистику использования и отчёты об ошибках на gunmarks.app (отключается в Настройки → Приватность модов)."
       },
       "author": "H17M4N",
       "homepage": "https://wgmods.net/7981/",
@@ -1595,6 +1778,10 @@
           "subfolder": "app.gunmarks",
           "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.results_0.1.0.wotmod"
         }
+      ],
+      "categories": [
+        "stats",
+        "hangar"
       ]
     }
   ]
