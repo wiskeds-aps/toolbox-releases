@@ -1840,6 +1840,41 @@
       "categories": [
         "battle"
       ]
+    },
+    {
+      "id": "me.poliroid.pmod",
+      "name": {
+        "en": "PMOD",
+        "ru": "PMOD"
+      },
+      "description": {
+        "en": "One big configurable mod: sniper zoom steps, no scope sway or dimming, camera distance, session stats in chat and much more. Almost everything is off by default; settings are in mods/configs/pmod.",
+        "ru": "Один большой настраиваемый мод: шаги зума в снайперском режиме, без раскачки и затемнения прицела, отдаление камеры, сессионная статистика в чате и многое другое. По умолчанию почти всё выключено; настройки в mods/configs/pmod."
+      },
+      "author": "POLIROID",
+      "homepage": "https://wgmods.net/50/",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.fix.battleresultscache",
+        "net.openwg.fix.battleresultsreplays"
+      ],
+      "releases": [
+        {
+          "version": "1.81.17",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://modp.wgcdn.co/media/mod_files/PMOD_ver_81-17.zip",
+          "sha256": "F5AD07C18058B9E96964F429CCAED25949C7E8E76FED8FB8D7B5FC0371ACEE65",
+          "archiveEntry": "mods/2.4.1.0/me.poliroid.pmod_1.81.17.wotmod",
+          "configPrefix": "mods/configs/pmod/"
+        }
+      ],
+      "categories": [
+        "battle",
+        "hangar",
+        "tools"
+      ]
     }
   ]
 }
