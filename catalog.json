@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "mods": [
+    {
+      "id": "net.openwg.gameface",
+      "name": {
+        "en": "GameFace",
+        "ru": "GameFace"
+      },
+      "description": {
+        "en": "Library that lets mods build their interface on GameFace (HTML/JS). Required by many mods.",
+        "ru": "Библиотека для модов с интерфейсом на GameFace (HTML/JS). Нужна многим модам."
+      },
+      "author": "OpenWG",
+      "homepage": "https://gitlab.com/openwg/wot.gameface",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.2.2",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://gitlab.com/-/project/68695173/uploads/a802bb95952c95d37092baff511bc9e7/net.openwg.gameface_1.2.2.wotmod",
+          "sha256": "2BB65F28663E3AB34B5A1102A1BBD1F6E17A65E1F6A898A8645C4AB732B50184",
+          "subfolder": "net.openwg"
+        }
+      ]
+    },
+    {
+      "id": "me.poliroid.modslistapi",
+      "name": {
+        "en": "Mods List API",
+        "ru": "Список модов (Mods List API)"
+      },
+      "description": {
+        "en": "Hangar button with the list of installed mods. Required by many mods.",
+        "ru": "Кнопка в ангаре со списком установленных модов. Нужна многим модам."
+      },
+      "author": "poliroid",
+      "homepage": "https://gitlab.com/wot-public-mods/mods-list",
+      "trust": "Community",
+      "requires": [
+        "net.openwg.gameface"
+      ],
+      "releases": [
+        {
+          "version": "1.8.0",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://gitlab.com/-/project/26509092/uploads/5f859d1552fd2daa7896a28b67e4f132/me.poliroid.modslistapi_1.8.0.wotmod",
+          "sha256": "C6E4A1D9476B0195C3B4FAB392CF5D68C00F1D02FD79E29BD7424EBDA88B498C"
+        }
+      ]
+    },
+    {
+      "id": "izeberg.modssettingsapi",
+      "name": {
+        "en": "ModsSettings API",
+        "ru": "Настройки модов (ModsSettings API)"
+      },
+      "description": {
+        "en": "Shared settings window used by mods of many authors.",
+        "ru": "Общее окно настроек, которым пользуются моды разных авторов."
+      },
+      "author": "IzeBerg",
+      "homepage": "https://github.com/izeberg/modssettingsapi",
+      "trust": "Community",
+      "requires": [
+        "me.poliroid.modslistapi"
+      ],
+      "releases": [
+        {
+          "version": "1.7.1",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/izeberg/modssettingsapi/releases/download/1.7.1/izeberg.modssettingsapi_1.7.1.wotmod",
+          "sha256": "439C0ED636CA8925A7029CEEDB007D872B7BC7DF16D41712E22B1A95083C239B"
+        }
+      ]
+    },
+    {
+      "id": "me.poliroid.battlehits",
+      "name": {
+        "en": "Battle Hits",
+        "ru": "Попадания (Battle Hits)"
+      },
+      "description": {
+        "en": "Hangar viewer of the hits from your recent battles: who hit, where and with what.",
+        "ru": "Просмотр в ангаре попаданий из недавних боёв: кто, куда и чем попал."
+      },
+      "author": "poliroid",
+      "homepage": "https://gitlab.com/wot-public-mods/battle-hits",
+      "trust": "Community",
+      "requires": [
+        "me.poliroid.modslistapi"
+      ],
+      "releases": [
+        {
+          "version": "2.4.2",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://gitlab.com/-/project/26506974/uploads/8ac1284119f98dbb26fc6a9f2e959183/me.poliroid.battlehits_2.4.2.wotmod",
+          "sha256": "F842E3428008E88FD5855D8E9E3A70FF37F35B8F94244F755238A53BD3D677CB"
+        }
+      ]
+    },
+    {
+      "id": "com.github.pruszko.distancemarker",
+      "name": {
+        "en": "Distance Marker",
+        "ru": "Маркер дистанции"
+      },
+      "description": {
+        "en": "Shows the distance to visible enemies above their markers.",
+        "ru": "Показывает дистанцию до видимых противников над их маркерами."
+      },
+      "author": "Pruszko",
+      "homepage": "https://github.com/Pruszko/DistanceMarker",
+      "trust": "Community",
+      "requires": [
+        "izeberg.modssettingsapi"
+      ],
+      "releases": [
+        {
+          "version": "2.2.5",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/Pruszko/DistanceMarker/releases/download/v2.2.5_2/pruszko.distance_marker_2.2.5.zip",
+          "sha256": "CDE48C6CD0B88B7886FB0297A93AEA2BE5D628D0FD3B9BAB10D9E5690B1679D5",
+          "archiveEntry": "pruszko.distance_marker_2.2.5.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "com.github.pruszko.dispersionreticle",
+      "name": {
+        "en": "Dispersion Reticle",
+        "ru": "Прицел разброса"
+      },
+      "description": {
+        "en": "Extra dispersion reticles: server-side, \"real\" and fully custom ones.",
+        "ru": "Дополнительные прицелы разброса: серверный, «реальный» и настраиваемый."
+      },
+      "author": "Pruszko",
+      "homepage": "https://github.com/Pruszko/DispersionReticle",
+      "trust": "Community",
+      "requires": [
+        "izeberg.modssettingsapi"
+      ],
+      "releases": [
+        {
+          "version": "3.1.13",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/Pruszko/DispersionReticle/releases/download/v3.1.13/pruszko.dispersion_reticle_3.1.13.zip",
+          "sha256": "0901494A8BE70140E9006725772B3E1ED85D5EA82B52CD6161D5613DE26D0F28",
+          "archiveEntry": "pruszko.dispersion_reticle_3.1.13.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "com.github.pruszko.achievementnotification",
+      "name": {
+        "en": "Achievement Notification",
+        "ru": "Уведомления о медалях"
+      },
+      "description": {
+        "en": "Pop-up notification right in battle when you earn an achievement.",
+        "ru": "Всплывающее уведомление прямо в бою, когда получаешь медаль."
+      },
+      "author": "Pruszko",
+      "homepage": "https://github.com/Pruszko/AchievementNotification",
+      "trust": "Community",
+      "requires": [
+        "izeberg.modssettingsapi"
+      ],
+      "releases": [
+        {
+          "version": "1.2.6",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/Pruszko/AchievementNotification/releases/download/v1.2.6_2/pruszko.achievement_notification_1.2.6.zip",
+          "sha256": "CB34A60B160AE1A0FCFE4373ECD815429218ADD8F8B6E6ED011418E65CADD8D8",
+          "archiveEntry": "pruszko.achievement_notification_1.2.6.wotmod"
+        }
+      ]
+    },
+    {
+      "id": "com.github.pruszko.responsive_reticle",
+      "name": {
+        "en": "Responsive Reticle",
+        "ru": "Отзывчивый прицел"
+      },
+      "description": {
+        "en": "The reticle reacts faster: removes the client's delay in drawing aim convergence.",
+        "ru": "Прицел реагирует быстрее: убирает задержку отрисовки сведения в клиенте."
+      },
+      "author": "Pruszko",
+      "homepage": "https://github.com/Pruszko/ResponsiveReticle",
+      "trust": "Community",
+      "requires": [],
+      "releases": [
+        {
+          "version": "1.0.12",
+          "clients": [
+            "2.4.1.0"
+          ],
+          "url": "https://github.com/Pruszko/ResponsiveReticle/releases/download/v1.0.12/pruszko.responsive_reticle_1.0.12.wotmod",
+          "sha256": "97586A5ECAA389A130E48FDEF1C32985527DE152E312725737D78E73A3156DDD"
+        }
+      ]
+    }
+  ]
+}
