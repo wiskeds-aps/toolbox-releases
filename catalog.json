@@ -516,35 +516,6 @@
       ]
     },
     {
-      "id": "spoter.repair_extended",
-      "name": {
-        "en": "Repair Extended",
-        "ru": "Авторемонт и лечение"
-      },
-      "description": {
-        "en": "Automatically repairs modules and heals crew with repair kits and first aid kits.",
-        "ru": "Автоматически чинит модули и лечит экипаж ремкомплектами и аптечками."
-      },
-      "author": "spoter",
-      "homepage": "https://github.com/spoter/spoter-mods",
-      "trust": "Community",
-      "requires": [
-        "mod_mods_gui"
-      ],
-      "releases": [
-        {
-          "version": "3.14",
-          "clients": [
-            "2.4.1.0"
-          ],
-          "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_repair_extended.zip",
-          "sha256": "C21873955C2D2325189EABD95B73119AFF51DEE171DE500CF10155A9020241C6",
-          "subfolder": "spoter",
-          "archiveEntry": "mods/2.4.1.0/spoter/mod_repair_extended_3.14.wotmod"
-        }
-      ]
-    },
-    {
       "id": "spoter.spotted_extended_light",
       "name": {
         "en": "Spotted Extended Light",
