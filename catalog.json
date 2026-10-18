@@ -1874,7 +1874,92 @@
         "battle",
         "hangar",
         "tools"
-      ]
+      ],
+      "modules": {
+        "root": "mods/configs/pmod/pmod.json",
+        "names": {
+          "battleChat.json": {
+            "en": "In-battle chat",
+            "ru": "Чат в бою"
+          },
+          "battleGui.json": {
+            "en": "Battle interface tweaks",
+            "ru": "Изменения боевого интерфейса"
+          },
+          "cameraOptions.json": {
+            "en": "Camera effects in battle",
+            "ru": "Эффекты камеры в бою"
+          },
+          "hangar.json": {
+            "en": "Hangar features",
+            "ru": "Функции ангара"
+          },
+          "horizontalStabilizer.json": {
+            "en": "Horizontal stabilization",
+            "ru": "Горизонтальный стабилизатор"
+          },
+          "loginWindow.json": {
+            "en": "Login screen",
+            "ru": "Окно входа"
+          },
+          "markers.json": {
+            "en": "Distance markers above vehicles",
+            "ru": "Маркеры дистанции над танками"
+          },
+          "noBinoculars.json": {
+            "en": "No sniper-scope darkening and green tint",
+            "ru": "Без затемнения и зелёного оттенка в снайперском режиме"
+          },
+          "noDynamic.json": {
+            "en": "Reticle and camera stabilization (dynamic camera)",
+            "ru": "Стабилизация прицела и камеры (динамическая камера)"
+          },
+          "serverDispersionCircle.json": {
+            "en": "Server dispersion circle",
+            "ru": "Серверный круг сведения"
+          },
+          "onStartDeadDistance.json": {
+            "en": "Camera distance at battle start and after death",
+            "ru": "Дистанция камеры в начале боя и после уничтожения"
+          },
+          "reducedArmor.json": {
+            "en": "Effective armor indicator",
+            "ru": "Индикатор приведённой брони"
+          },
+          "scrollSensitivity.json": {
+            "en": "Scroll sensitivity in arcade mode",
+            "ru": "Чувствительность прокрутки в аркадном режиме"
+          },
+          "sessionStatistic.json": {
+            "en": "Session statistics",
+            "ru": "Статистика за сессию"
+          },
+          "systemMessages.json": {
+            "en": "System channel messages",
+            "ru": "Сообщения системного канала"
+          },
+          "tdBrakeRemover.json": {
+            "en": "No handbrake on tank destroyers",
+            "ru": "Без ручного тормоза на ПТ-САУ"
+          },
+          "videomode.json": {
+            "en": "Free camera",
+            "ru": "Свободная камера"
+          },
+          "zoomDistance.json": {
+            "en": "Camera zoom-out distance",
+            "ru": "Дистанция отдаления камеры"
+          },
+          "zoomIndicator.json": {
+            "en": "Zoom indicator",
+            "ru": "Индикатор кратности зума"
+          },
+          "zoomX.json": {
+            "en": "Sniper zoom steps and magnification",
+            "ru": "Шаги и кратность снайперского зума"
+          }
+        }
+      }
     }
   ]
 }
