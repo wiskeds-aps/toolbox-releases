@@ -472,7 +472,8 @@
           ],
           "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_mods_gui.zip",
           "sha256": "0BA59BE20CD25FB91FF395F7A7ED298B87BD388F1D0C1704D3659EE592ABD627",
-          "archiveEntry": "mods/2.4.1.0/gambiter.guiflash_0.6.7.wotmod"
+          "archiveEntry": "mods/2.4.1.0/gambiter.guiflash_0.6.7.wotmod",
+          "configPrefix": "mods/configs/mods_gui/"
         }
       ],
       "categories": [
@@ -504,7 +505,8 @@
           ],
           "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_mods_gui.zip",
           "sha256": "0BA59BE20CD25FB91FF395F7A7ED298B87BD388F1D0C1704D3659EE592ABD627",
-          "archiveEntry": "mods/2.4.1.0/mod_mods_gui_3.11.wotmod"
+          "archiveEntry": "mods/2.4.1.0/mod_mods_gui_3.11.wotmod",
+          "configPrefix": "mods/configs/mods_gui/"
         }
       ],
       "categories": [
@@ -536,7 +538,8 @@
           "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_marksOnGunExtended.zip",
           "sha256": "91C6793D9ED6334A75BF48CDDEBD648975B3C5FA0FD5F370D7B99616FC18D4C2",
           "subfolder": "spoter",
-          "archiveEntry": "mods/2.4.1.0/spoter/mod_marksOnGunExtended_9.15.wotmod"
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_marksOnGunExtended_9.15.wotmod",
+          "configPrefix": "mods/configs/"
         }
       ],
       "categories": [
@@ -569,7 +572,8 @@
           "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_creditCalc.zip",
           "sha256": "DE169A6C09E276BD488BA36C3DCF79F57A07F617E20766EF8D5376226FAF82FE",
           "subfolder": "spoter",
-          "archiveEntry": "mods/2.4.1.0/spoter/mod_creditCalc_2.12.wotmod"
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_creditCalc_2.12.wotmod",
+          "configPrefix": "mods/configs/"
         }
       ],
       "categories": [
@@ -602,7 +606,8 @@
           "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_spotted_extended_light.zip",
           "sha256": "E3F07A26437B9FA4670C6EA9B148881E26E7E4B5B67BA6FF85DAE65046521D60",
           "subfolder": "spoter",
-          "archiveEntry": "mods/2.4.1.0/spoter/mod_spotted_extended_light_4.18.wotmod"
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_spotted_extended_light_4.18.wotmod",
+          "configPrefix": "mods/configs/"
         }
       ],
       "categories": [
@@ -634,7 +639,8 @@
           "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_server_turret_extended.zip",
           "sha256": "98D3BF7C70CF5ECB59BEA4DD26622DAA9ACEC8EE8C6D2F11FB1C421677CADC77",
           "subfolder": "spoter",
-          "archiveEntry": "mods/2.4.1.0/spoter/mod_server_turret_extended_3.15.wotmod"
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_server_turret_extended_3.15.wotmod",
+          "configPrefix": "mods/configs/"
         }
       ],
       "categories": [
@@ -666,7 +672,8 @@
           "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_artySplash.zip",
           "sha256": "41B50B31E3EC228E6342E01AE83CFF2801C3F8EFA5E6C3DED3284EC349D70DC2",
           "subfolder": "spoter",
-          "archiveEntry": "mods/2.4.1.0/spoter/mod_artySplash_2.18.wotmod"
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_artySplash_2.18.wotmod",
+          "configPrefix": "mods/configs/"
         }
       ],
       "categories": [
@@ -698,7 +705,8 @@
           "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_autoServerSight.zip",
           "sha256": "A76348FE570749C12F913BDC8279858B1DBE3848A203EDCFE84B4988D328BDCF",
           "subfolder": "spoter",
-          "archiveEntry": "mods/2.4.1.0/spoter/mod_autoServerSight_1.03.wotmod"
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_autoServerSight_1.03.wotmod",
+          "configPrefix": "mods/configs/"
         }
       ],
       "categories": [
@@ -730,7 +738,8 @@
           "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_discordHangar.zip",
           "sha256": "FA5456DD58F11757BAE597AE9C1EE6819059B2DE81E799878B85F6FCCC8CB26E",
           "subfolder": "spoter",
-          "archiveEntry": "mods/2.4.1.0/spoter/mod_discordHangar_1.03.wotmod"
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_discordHangar_1.03.wotmod",
+          "configPrefix": "mods/configs/mods_gui/"
         }
       ],
       "categories": [
@@ -762,7 +771,8 @@
           "url": "https://github.com/spoter/spoter-mods/releases/download/latest/mod_muteSoundHotKey.zip",
           "sha256": "C752961F9BDEF7B8B59606DB0C765D3A31223EA0D735CB79FAEC06FA65FDB5B9",
           "subfolder": "spoter",
-          "archiveEntry": "mods/2.4.1.0/spoter/mod_muteSoundHotKey_1.03.wotmod"
+          "archiveEntry": "mods/2.4.1.0/spoter/mod_muteSoundHotKey_1.03.wotmod",
+          "configPrefix": "mods/configs/"
         }
       ],
       "categories": [
