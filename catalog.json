@@ -1892,9 +1892,33 @@
             "en": "In-battle chat",
             "ru": "Чат в бою"
           },
+          "battleChat.json#cleaner": {
+            "en": "Chat filter",
+            "ru": "Фильтр чата"
+          },
+          "battleChat.json#resultInformer": {
+            "en": "Battle results in chat",
+            "ru": "Итоги боя в чате"
+          },
           "battleGui.json": {
             "en": "Battle interface tweaks",
             "ru": "Изменения боевого интерфейса"
+          },
+          "battleGui.json#teamHealth": {
+            "en": "Teams' HP",
+            "ru": "ХП команд"
+          },
+          "battleGui.json#detectionState": {
+            "en": "Enemy detection status",
+            "ru": "Статус засвета противников"
+          },
+          "battleGui.json#tankExpert": {
+            "en": "Expert medal indicator",
+            "ru": "Индикатор медали «Эксперт»"
+          },
+          "battleGui.json#playersHealth": {
+            "en": "Players' HP in the panels",
+            "ru": "ХП игроков в ушах"
           },
           "cameraOptions.json": {
             "en": "Camera effects in battle",
@@ -1903,6 +1927,10 @@
           "hangar.json": {
             "en": "Hangar features",
             "ru": "Функции ангара"
+          },
+          "hangar.json#messagesCleaner": {
+            "en": "Hangar message filter",
+            "ru": "Фильтр сообщений в ангаре"
           },
           "horizontalStabilizer.json": {
             "en": "Horizontal stabilization",
@@ -1927,6 +1955,22 @@
           "serverDispersionCircle.json": {
             "en": "Server dispersion circle",
             "ru": "Серверный круг сведения"
+          },
+          "serverDispersionCircle.json#arcade": {
+            "en": "Arcade mode",
+            "ru": "Аркадный режим"
+          },
+          "serverDispersionCircle.json#sniper": {
+            "en": "Sniper mode",
+            "ru": "Снайперский режим"
+          },
+          "serverDispersionCircle.json#strategic": {
+            "en": "Artillery mode",
+            "ru": "Арт-режим"
+          },
+          "serverDispersionCircle.json#switchByKey": {
+            "en": "Switch by hotkey",
+            "ru": "Переключение клавишей"
           },
           "onStartDeadDistance.json": {
             "en": "Camera distance at battle start and after death",
@@ -1959,6 +2003,14 @@
           "zoomDistance.json": {
             "en": "Camera zoom-out distance",
             "ru": "Дистанция отдаления камеры"
+          },
+          "zoomDistance.json#arcadeSmartDistance": {
+            "en": "Custom zoom steps (arcade)",
+            "ru": "Свои шаги отдаления (аркада)"
+          },
+          "zoomDistance.json#strategicSmartDistance": {
+            "en": "Custom zoom steps (artillery)",
+            "ru": "Свои шаги отдаления (арта)"
           },
           "zoomIndicator.json": {
             "en": "Zoom indicator",
