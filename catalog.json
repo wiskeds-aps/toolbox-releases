@@ -1619,14 +1619,14 @@
       ],
       "releases": [
         {
-          "version": "0.2.3",
+          "version": "0.2.4",
           "clients": [
             "2.4.1.0"
           ],
-          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_reticle_0.2.3.6_wot2.4.1.0.zip",
-          "sha256": "E1F31A4B447B33CD4546CE6C7A7DAD33F5D4A9B203CF816DEEDB556B6650E279",
+          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_reticle_0.2.4.7_wot2.4.1.0.zip",
+          "sha256": "89B5462BD2470889913939BE5A8516838D77DBAC450D8B0A98CFFEF76DC034BF",
           "subfolder": "app.gunmarks",
-          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.reticle_0.2.3.wotmod"
+          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.reticle_0.2.4.wotmod"
         }
       ],
       "categories": [
@@ -1651,14 +1651,14 @@
       ],
       "releases": [
         {
-          "version": "0.2.3",
+          "version": "0.2.4",
           "clients": [
             "2.4.1.0"
           ],
-          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_moe_0.2.3.40_wot2.4.1.0.zip",
-          "sha256": "954B2625ECC008EDE59E0B71A87312DF1B384455DE6533575A89262887420C97",
+          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_moe_0.2.4.41_wot2.4.1.0.zip",
+          "sha256": "BC757150560D5D973D072A31A4E8547642361A734B9EF9404FA33D996011B24A",
           "subfolder": "app.gunmarks",
-          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.moe_0.2.3.wotmod"
+          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.moe_0.2.4.wotmod"
         }
       ],
       "categories": [
@@ -1683,14 +1683,14 @@
       ],
       "releases": [
         {
-          "version": "0.2.3",
+          "version": "0.2.4",
           "clients": [
             "2.4.1.0"
           ],
-          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_distance_0.2.3.40_wot2.4.1.0.zip",
-          "sha256": "4308FE692999B65E10B8BC5E619CF52C963D52D585A6DAF02175259A6DD8D2B0",
+          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_distance_0.2.4.41_wot2.4.1.0.zip",
+          "sha256": "0D79F6441FC02DD378549625F3C70146AB25AE423476BF899F28B42DE5C3BFF2",
           "subfolder": "app.gunmarks",
-          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.distance_0.2.3.wotmod"
+          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.distance_0.2.4.wotmod"
         }
       ],
       "categories": [
@@ -1747,14 +1747,14 @@
       ],
       "releases": [
         {
-          "version": "0.2.3",
+          "version": "0.2.4",
           "clients": [
             "2.4.1.0"
           ],
-          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_onslaught_0.2.3.40_wot2.4.1.0.zip",
-          "sha256": "94475611A8367B0F110D9D7C222296E5396AF5674666C574D4211E34C6084CE5",
+          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_onslaught_0.2.4.41_wot2.4.1.0.zip",
+          "sha256": "A437A2C25459E88F24FEDF4F5D4883AAB9AEAE6785C3E468091E846A27EB3423",
           "subfolder": "app.gunmarks",
-          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.onslaught_0.2.3.wotmod"
+          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.onslaught_0.2.4.wotmod"
         }
       ],
       "categories": [
@@ -1779,14 +1779,14 @@
       ],
       "releases": [
         {
-          "version": "0.1.0",
+          "version": "0.1.1",
           "clients": [
             "2.4.1.0"
           ],
-          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_results_0.1.0.1_wot2.4.1.0.zip",
-          "sha256": "0DAF5CC9F277B52C8CBCF9882E1C2F3C2A83B17D987702A92F1C7B8A5DFDF308",
+          "url": "https://modp.wgcdn.co/media/mod_files/gunmarks_results_0.1.1.2_wot2.4.1.0.zip",
+          "sha256": "CC2230062B323ADBFCFBEA26391C5DCCF5B2209D2D013F9CAB5E77D22E6B2EF4",
           "subfolder": "app.gunmarks",
-          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.results_0.1.0.wotmod"
+          "archiveEntry": "mods/2.4.1.0/app.gunmarks/app.gunmarks.results_0.1.1.wotmod"
         }
       ],
       "categories": [
