@@ -1135,13 +1135,13 @@
       ],
       "releases": [
         {
-          "version": "1.5.09",
+          "version": "1.5.10",
           "clients": [
             "2.4.1.0"
           ],
-          "url": "https://modp.wgcdn.co/media/mod_files/skill4ltu_2026.10.12.1.zip",
-          "sha256": "26B44DF0AE392E202AC14332C9BBD8A63373D71C84FACC6B63A649F8080E0D15",
-          "archiveEntry": "manual-install/me.poliroid.skill4ltu_1.5.09.wotmod"
+          "url": "https://modp.wgcdn.co/media/mod_files/skill4ltu_2026.10.20.1.zip",
+          "sha256": "1743B7566A5052CDB5DA058834103D95F370A9C5B918FCD2F7B76F8D013C3EF0",
+          "archiveEntry": "manual-install/me.poliroid.skill4ltu_1.5.10.wotmod"
         }
       ],
       "categories": [
