@@ -1167,13 +1167,13 @@
       ],
       "releases": [
         {
-          "version": "4.5.3",
+          "version": "4.5.4",
           "clients": [
             "2.4.1.0"
           ],
-          "url": "https://modp.wgcdn.co/media/mod_files/wotinspector.com.armor_inspector.4.5.3.wotmod.zip",
-          "sha256": "8802F74C7A0F9623E082C7FD428E0895AFB79516810581FD3A3B6396781E7E27",
-          "archiveEntry": "wotinspector.com.armor_inspector.4.5.3.wotmod"
+          "url": "https://modp.wgcdn.co/media/mod_files/wotinspector.com.armor_inspector.4.5.4.wotmod.zip",
+          "sha256": "CC138446FCDB7D519E5EF370FBE84570A7E3E7C6ADF49FF0F423A2D843EBB034",
+          "archiveEntry": "wotinspector.com.armor_inspector.4.5.4.wotmod"
         }
       ],
       "categories": [
