@@ -1463,13 +1463,13 @@
       ],
       "releases": [
         {
-          "version": "1.3.1",
+          "version": "1.3.2",
           "clients": [
             "2.4.1.0"
           ],
-          "url": "https://modp.wgcdn.co/media/mod_files/gravity.centered_minimap.2.4.1.0.1.3.1.zip",
-          "sha256": "3801E8830937C7D9E87E06BC24AAFF19F63EBEF0BA04F105E50BE06AF79D2DA8",
-          "archiveEntry": "gravity.centered_minimap.2.4.1.0.1.3.1.wotmod"
+          "url": "https://modp.wgcdn.co/media/mod_files/gravity.centered_minimap.2.4.1.0.1.3.2.zip",
+          "sha256": "70B15DBF08765086AC7C7033E4625B30F79B1A3E0BFB1667C6A01A9A52366D29",
+          "archiveEntry": "gravity.centered_minimap.2.4.1.0.1.3.2.wotmod"
         }
       ],
       "categories": [
